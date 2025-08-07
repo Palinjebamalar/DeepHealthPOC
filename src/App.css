@@ -7,12 +7,13 @@
 }
 
 .box {
-  flex: 1 1 calc(25% - 12px); /* 4 boxes per row with spacing */
+  flex: 1 1 calc(25% - 12px);
+  /* 4 boxes per row with spacing */
   background-color: #1976d2;
   color: white;
   text-align: center;
   padding: 40px 0;
-  border-radius: 8px;
+  /* border-radius: 2px; */
   font-size: 1.2rem;
   min-width: 150px;
 }
@@ -25,4 +26,16 @@ video {
 
 video::-webkit-media-controls {
   display: none !important;
+}
+
+/* .css-z5z9i1-MuiGridLegacy-root>.MuiGridLegacy-item {
+  padding:none !important;
+} */
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100%;
 }
