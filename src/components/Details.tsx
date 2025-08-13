@@ -104,14 +104,16 @@ const Details = () => {
   };
 
   return (
-    <>
+    <div style={{
+      height:"100%"
+    }}>
       <Header />
-      <Grid container gap={0}>
+      <Grid container gap={0} sx={{height:"91.3%"}}>
         {videos.map((video, index) => (
-          <Grid  size={6} key={index}>
+          <Grid  size={6} key={index} sx={{height:"50%"}}>
             <Box
               display="flex"
-              height={500}
+              height={"100%"}
               border={1}
               sx={{ borderColor: video ? "#fff" : "#000" }}
             >
@@ -209,7 +211,7 @@ const Details = () => {
           </Box>
         </Box>
       </Modal>
-    </>
+    </div>
   );
 };
 

@@ -152,7 +152,7 @@ const Header=()=> {
   );
 
   return (
-    <Box sx={{ flexGrow: 1 }}>
+    <Box sx={{ flexGrow: 1 ,height:"8.5%"}}>
       <AppBar position="static" sx={{backgroundColor:"black !important"}}>
         <Toolbar>
   <InputBase

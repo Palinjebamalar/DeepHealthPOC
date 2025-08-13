@@ -135,7 +135,7 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
           height: "100%",
           display: "flex",
           flexDirection: "column",
-          position: "relative",
+          // position: "relative",
           overflow: "hidden",
         }}
         ref={containerRef}
@@ -149,11 +149,11 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
               sx={{
                 backgroundColor: "#d9d9d9",
                 color: "#000",
-                maxHeight: "34px !important",
-                minHeight: "34px !important",
-                height: "34px !important",
+                // maxHeight: "34px !important",
+                // minHeight: "34px !important",
+                // height: "34px !important",
                 ".MuiToolbar-root": {
-                  minHeight: "34px !important",
+                  minHeight: "10% !important",
                 },
               }}
             >
@@ -180,7 +180,7 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
             </AppBar>
 
             {/* Video Section */}
-            <Box sx={{ flexGrow: 1, display: "flex" }}>
+            <Box sx={{ flexGrow: 1, display: "flex", height: "90%" }}>
               {/* Main Video */}
               <video
                 ref={videoRef}
@@ -188,6 +188,8 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
                   width: isFullscreen ? "70% !important" : "100%",
                   height: "100%",
                   objectFit: "cover",
+                  display: "flex",
+                  margin: "0 auto",
                 }}
                 controls={false}
                 autoPlay
@@ -331,7 +333,7 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
                     fontWeight: "bold",
                   }}
                 >
-                  Gallery Video
+                  {data.name}
                 </Typography>
                 <IconButton onClick={() => setHideAll(false)}>
                   <FullscreenIcon />
@@ -341,7 +343,7 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
 
             <video
               style={{
-                width: "100% !important",
+                width: "100%",
                 height: "100%",
                 objectFit: "cover",
               }}
@@ -351,7 +353,7 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
               loop
               onDoubleClick={() => setHideAll(false)}
             >
-              <source src={data.video} type="video/mp4" />
+              <source src={data.url} type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </Paper>
