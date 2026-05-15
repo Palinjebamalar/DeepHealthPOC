@@ -1,0 +1,78 @@
+// to run in /isa-techlive/
+// === CHANGE IF NAMES DIFFER ===
+const DB_NAME = 'broadcast-messages-db';  // database name
+const STORE   = 'broadcast-store';        // object store name
+
+// Keys we want to patch
+const KEYS_TO_PATCH = ['ISAConfiguration', 'streamAndDeviceConfig'];
+
+(async () => {
+ const openReq = indexedDB.open(DB_NAME);
+ openReq.onerror = () => console.error('DB open error:', openReq.error);
+
+ openReq.onsuccess = () => {
+   const db = openReq.result;
+
+   if (!db.objectStoreNames.contains(STORE)) {
+     console.error(`Store "${STORE}" not found. Stores:`, Array.from(db.objectStoreNames));
+     return;
+   }
+
+   const tx = db.transaction(STORE, 'readwrite');
+   const store = tx.objectStore(STORE);
+
+   KEYS_TO_PATCH.forEach(KEY => {
+     const getReq = store.get(KEY);
+     getReq.onsuccess = () => {
+       let record = getReq.result;
+       if (!record) {
+         console.warn(`Key "${KEY}" not found`);
+         return;
+       }
+
+       // Figure out where the "data" lives
+       let raw = record?.payload?.data ?? record?.data;
+
+       // Parse JSON safely
+       let parsed;
+       try {
+         parsed = typeof raw === 'string' ? JSON.parse(raw) : raw;
+       } catch (e) {
+         console.error(`Failed to parse data for key ${KEY}:`, e, raw);
+         return;
+       }
+
+       // === Apply camera name replacements ===
+       if (Array.isArray(parsed)) {
+         // streamAndDeviceConfig style (array)
+         parsed = parsed.map(cam => {
+        //   if (cam?.name === 'Camera_patient') cam.name = 'Capture_1';
+           if (cam?.name === 'Camera_av_call') cam.name = 'Capture_0';
+           return cam;
+         });
+       } else if (parsed && Array.isArray(parsed.video)) {
+         // ISAConfiguration style (object with .video)
+         parsed.video = parsed.video.map(cam => {
+        //   if (cam?.name === 'Camera_patient') cam.name = 'Capture_0';
+           if (cam?.name === 'Camera_av_call') cam.name = 'Capture_0';
+           return cam;
+         });
+       }
+
+       // Write back with same shape (stringify if it was string before)
+       if (record?.payload?.data !== undefined) {
+         record.payload.data = typeof raw === 'string' ? JSON.stringify(parsed) : parsed;
+       } else if (record?.data !== undefined) {
+         record.data = typeof raw === 'string' ? JSON.stringify(parsed) : parsed;
+       }
+
+       const putReq = store.put(record, KEY);
+       putReq.onsuccess = () => console.log(`✅ Updated ${KEY}`);
+       putReq.onerror = () => console.error(`PUT error for ${KEY}:`, putReq.error);
+     };
+   });
+
+   tx.oncomplete = () => console.log('🎉 All updates complete');
+   tx.onerror = e => console.error('TX error:', tx.error || e);
+ };
+})(); 
