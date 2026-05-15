@@ -81,3 +81,52 @@ const KEYS_TO_PATCH = ['ISAConfiguration', 'streamAndDeviceConfig'];
 
 @DeepHealth:registry=https://gitlab.com/api/v4/packages/npm/
 //gitlab.com/api/v4/packages/npm/:_authToken=glpat-J45hSM0s71TFIH6IeA_73G86MQp1OmhzeW5kCw.01.121we74nb
+
+
+
+const modalIDRef = useRef(modalID)
+
+  useEffect(() => {
+    modalIDRef.current = modalID
+  }, [modalID])
+
+
+
+  try {
+        const currentModalID = modalIDRef.current
+        const currentMeetingUniqueId = meetingUniqueIdRef.current
+        if (currentModalID) {
+          const database = getDatabase()
+          const presenceRefDatabase = ref(database, `${firebaseCollection.modalities}/${currentModalID}`)
+          const lastOnlineRef = ref(
+            database,
+            `${firebaseCollection.modalities}/${currentModalID}/${fieldKeys.lastOnlineTimestamp}`
+          )
+          const offlineStatus = currentMeetingUniqueId
+            ? { ...isOfflineForDatabase, meetingUniqueId: currentMeetingUniqueId }
+            : isOfflineForDatabase
+          set(presenceRefDatabase, offlineStatus).catch(() => {})
+          set(lastOnlineRef, serverTimestamp()).catch(() => {})
+          logger.info(
+            COMPONENT_LIST.MEETING_PROVIDER,
+            eventConstants.COMPONENT_STATUS,
+            `ModalityPresence: Proactively wrote offline status for modalityId=${currentModalID}`
+          )
+        }
+        if (pairedUserIdRef.current) {
+          const database = getDatabase()
+          const userPresenceRef = ref(database, `${firebaseCollection.users}/${pairedUserIdRef.current}`)
+          set(userPresenceRef, isOfflineForDatabase).catch(() => {})
+          logger.info(
+            COMPONENT_LIST.MEETING_PROVIDER,
+            eventConstants.COMPONENT_STATUS,
+            `UserPresence: Proactively wrote offline status for userId=${pairedUserIdRef.current}`
+          )
+        }
+      } catch (err) {
+        logger.error(
+          COMPONENT_LIST.MEETING_PROVIDER,
+          eventConstants.ERROR_HANDLER,
+          `Error proactively writing offline status: ${err}`
+        )
+      }
