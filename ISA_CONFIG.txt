@@ -92,7 +92,7 @@ const modalIDRef = useRef(modalID)
 
 
 
-  try {
+   try {
         const currentModalID = modalIDRef.current
         const currentMeetingUniqueId = meetingUniqueIdRef.current
         if (currentModalID) {
@@ -102,10 +102,16 @@ const modalIDRef = useRef(modalID)
             database,
             `${firebaseCollection.modalities}/${currentModalID}/${fieldKeys.lastOnlineTimestamp}`
           )
-          const offlineStatus = currentMeetingUniqueId
-            ? { ...isOfflineForDatabase, meetingUniqueId: currentMeetingUniqueId }
-            : isOfflineForDatabase
-          set(presenceRefDatabase, offlineStatus).catch(() => {})
+          // Build a fresh offline object each time — serverTimestamp() is a
+          // sentinel that gets consumed on the first write and cannot be reused.
+          const freshOfflineStatus: Record<string, any> = {
+            state: 'offline',
+            last_changed: serverTimestamp()
+          }
+          if (currentMeetingUniqueId) {
+            freshOfflineStatus.meetingUniqueId = currentMeetingUniqueId
+          }
+          set(presenceRefDatabase, freshOfflineStatus).catch(() => {})
           set(lastOnlineRef, serverTimestamp()).catch(() => {})
           logger.info(
             COMPONENT_LIST.MEETING_PROVIDER,
@@ -116,7 +122,8 @@ const modalIDRef = useRef(modalID)
         if (pairedUserIdRef.current) {
           const database = getDatabase()
           const userPresenceRef = ref(database, `${firebaseCollection.users}/${pairedUserIdRef.current}`)
-          set(userPresenceRef, isOfflineForDatabase).catch(() => {})
+          // Fresh object — same reason as above
+          set(userPresenceRef, { state: 'offline', last_changed: serverTimestamp() }).catch(() => {})
           logger.info(
             COMPONENT_LIST.MEETING_PROVIDER,
             eventConstants.COMPONENT_STATUS,
