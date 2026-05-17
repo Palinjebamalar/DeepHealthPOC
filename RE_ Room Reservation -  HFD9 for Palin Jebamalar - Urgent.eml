@@ -1,0 +1,2816 @@
+Received: from CO1PR08MB6595.namprd08.prod.outlook.com (2603:10b6:303:9f::16)
+ by BN8PR08MB6419.namprd08.prod.outlook.com with HTTPS; Sun, 17 May 2026
+ 11:35:48 +0000
+Received: from BY5PR13CA0009.namprd13.prod.outlook.com (2603:10b6:a03:180::22)
+ by CO1PR08MB6595.namprd08.prod.outlook.com (2603:10b6:303:9f::16) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.25.18; Sun, 17 May
+ 2026 11:35:44 +0000
+Received: from SJ1PEPF000026C9.namprd04.prod.outlook.com
+ (2603:10b6:a03:180:cafe::95) by BY5PR13CA0009.outlook.office365.com
+ (2603:10b6:a03:180::22) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.21.25.18 via Frontend Transport; Sun, 17
+ May 2026 11:35:44 +0000
+Received: from mx0b-0001f101.pphosted.com (66.159.251.50) by
+ SJ1PEPF000026C9.mail.protection.outlook.com (10.167.244.106) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.21.48.11
+ via Frontend Transport; Sun, 17 May 2026 11:35:43 +0000
+Received: from pps.filterd (m0484389.ppops.net [127.0.0.1])
+	by mx0b-0001f101.pphosted.com (8.18.1.11/8.18.1.11) with ESMTP id 64HBN0AP164491
+	for <Travels.India@sutherlandglobal.com>; Sun, 17 May 2026 11:35:42 GMT
+Received: from smtp64.iad3a.emailsrvr.com (smtp64.iad3a.emailsrvr.com [173.203.187.64])
+	by mx0b-0001f101.pphosted.com (PPS) with ESMTPS id 4e76198a6w-1
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <Travels.India@sutherlandglobal.com>; Sun, 17 May 2026 11:35:41 +0000 (GMT)
+Received: by smtp33.relay.iad3a.emailsrvr.com (Authenticated sender: fowf2.keys-AT-lemontreehotels.com) with ESMTPSA id 0537A3A78;
+	Sun, 17 May 2026 07:35:37 -0400 (EDT)
+From: RESERVATION <reservationswf.keys@lemontreehotels.com>
+To: Travels.India <Travels.India@sutherlandglobal.com>
+CC: Santosh Peter Antony Mathias
+	<SANTOSHPETERANTONY.MATHIAS@sutherlandglobal.com>,
+	"reservations@lemontreehotels.com" <reservations@lemontreehotels.com>,
+	"reservationswf.keys@lemontreehotels.com"
+	<reservationswf.keys@lemontreehotels.com>, 'Prabakaran C'
+	<sales1.cn@lemontreehotels.com>, 'Rahul Zetshi'
+	<hos.south@lemontreehotels.com>, 'Vignesh C' <sales4.cn@lemontreehotels.com>
+Subject: RE: Room Reservation -  HFD9 for Palin Jebamalar - Urgent
+Thread-Topic: Room Reservation -  HFD9 for Palin Jebamalar - Urgent
+Thread-Index: AdzlPlO2oD8NSiDaR3Csz2C0rlAkqwAqxG9QAAH4wQA=
+Sender: Madhuri Maaripelli <fowf2.keys@lemontreehotels.com>
+X-MS-Exchange-MessageSentRepresentingType: 2
+Date: Sun, 17 May 2026 11:35:38 +0000
+Message-ID: <007501dce5f1$4b5b35a0$e211a0e0$@lemontreehotels.com>
+References:
+	<DM6PR08MB51478B78A49859CCEE8C25C5F3052@DM6PR08MB5147.namprd08.prod.outlook.com>
+ <DM6PR08MB5147F95B34CE27CFAD42B052F3022@DM6PR08MB5147.namprd08.prod.outlook.com>
+In-Reply-To:
+	<DM6PR08MB5147F95B34CE27CFAD42B052F3022@DM6PR08MB5147.namprd08.prod.outlook.com>
+Content-Language: en-IN
+X-MS-Exchange-Organization-AuthSource:
+	SJ1PEPF000026C9.namprd04.prod.outlook.com
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+	63b151ea-828f-4ddc-f42c-08deb4086e1e
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+received-spf: Pass (protection.outlook.com: domain of lemontreehotels.com
+ designates 173.203.187.64 as permitted sender)
+ receiver=protection.outlook.com; client-ip=173.203.187.64;
+ helo=smtp64.iad3a.emailsrvr.com; pr=C
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(930201)(20251009189)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?GB18030?B?K2poTFljSlZheDROMHZDQndqOGZXa2pKWENBWnBDL2xnNmJRL01FUkd0OCtN?=
+ =?GB18030?B?bTdkN3U0bnNUWDZMNVVsQVFscFVQNHBMRS9hQUZ4bFpRNlNQRlZuTldmTjFI?=
+ =?GB18030?B?cVVDVHQvdHB3b1d5KzBUS2xJcG1qMFdtTTUvem9OVDkzaHBjTy8wYUl5WDRQ?=
+ =?GB18030?B?c3g3YWduWU9RNFZuam1QSEhOT2N1VURTTk1Nelc3Q2FTMlRlSnhkekFqeUVK?=
+ =?GB18030?B?em1YWXVTWiswQXVXcmRpT0FZMDBhNmZDN29vUHlYcHJ5Q3pvVWViNjE4With?=
+ =?GB18030?B?Z2RtUzBPdUh3K3ZSU2tJVU94akRObW9reFlLN0g1SEczQXhPeksrNUYzNFBD?=
+ =?GB18030?B?azlUVUxQVVk5cGZwM1pqUkRiZHdQKzZGM0tnb2paSmZJZ2hkSEtiM0pGQjJN?=
+ =?GB18030?B?ZU5MN3NrTTJqUFoxRGxNZFdMU2ZyQS9CUURNTGRDRUlLOFBXUitnOWZmZlJp?=
+ =?GB18030?B?Y1BIa0JacmZERXFkNnY3VHlrQ3pwcmpjc0RoNUdsdGx1Uk40KytkOVhHcEd4?=
+ =?GB18030?B?SW0vWUxZZlIwUVlOU3RDcG5Hc3JNdW11SWtCd3NtZFJBc2Q5SndOa21rdlBw?=
+ =?GB18030?B?THNXcm1ISGZ6cm5BZTZNWENQQWxabU5KZU9rbUZLRTRFaWcwM0ZRdmphUzNH?=
+ =?GB18030?B?TkNIYzFhUEhGbGUyQnRFZzJnNnlVbk5TOW1YM25aWERjdllVdjhiV0Qva2ZU?=
+ =?GB18030?B?VFRxclNvTlhkQjA2V2hDVU1BTzI3TWp6T2dLSWVnSnNTSjlMK1RCV3ZVWVRH?=
+ =?GB18030?B?MEk4VTlWc2ROWllVUjYzTUpScTVzcStRNmcwb2Vpc0pSZTZmUThlOTJmVXRZ?=
+ =?GB18030?B?aVNpekorcU96ZWxOMGQ5akh3eWR2YzZSa0hiQXZpb0t0RWJ3TjZ4a3B4MmVW?=
+ =?GB18030?B?RjZkTTM4Y3QvdkFndXZVYXY1SkRtOUw1ZmVYWG9TSGNxcWI4WWRUNGtMaDJz?=
+ =?GB18030?B?R0t0YnoxOGNHRzdNZ0cxWjJHQVFabHdqV0ovU3dzWDFmNUZhcm5hd21FVDF6?=
+ =?GB18030?B?dHVpYXo0Q1ZlcVlERGtKOUpQQUE2dXduY3JkbFEweWtDRlQ5M2pPS2V1Tk9R?=
+ =?GB18030?B?T0RtUTFUSGZtc2NVN2JFeEtYbHNsRkhJNFlycGdkKzVHN3FMMzFKYUdvdW9u?=
+ =?GB18030?B?dTVwcmZOVEpkdHk5NjBHdUd3MlJwcGJvZjR3bVF1dCtQR3BpOUs4OFVvYW1O?=
+ =?GB18030?B?TzNnckFaWG8raVI3NGFCMGR0UUQxeWdWY0cxMEpNK2orVG10aXJ1RkR6eTZn?=
+ =?GB18030?B?Sk14TjUyaFIrREMxck1ONWtHd3I5RjdjK0plZktSN3BLZUtzT1FkbFJQVnZQ?=
+ =?GB18030?B?L2krR293YnM1b2dOeWs1WE1VdXlxU2NidTVhTDNiN1lVZGVCSC9ZVE96SHha?=
+ =?GB18030?B?c1BhMkdVSUxxL1RUa1JKTkNFeWdkU0tPMjJRNkNLVlRaVjBPaTI3YTZnU3hH?=
+ =?GB18030?B?ODQ3VWI0WHFFazdJeUxxa0lsbVh0QU1nTmV4K3FWeXZhQ1BlUU1ja0JpM2pO?=
+ =?GB18030?B?aGdoc1dDUkRTcG1WeGduczRYMnkxd2c1eG0vRzBvcjlReGZVYk42dGN3UHhw?=
+ =?GB18030?B?LzRSS1FvbjdiOWNwSXVxM2VEMFk2Y3ZHcXlCd3pwZ2hTUE53L0pmNEdpekY2?=
+ =?GB18030?B?ZzNxQXVlRW9EejduYWtZQWcxTTB3SDg4azYwRENZcHFLdHFZSEtTTXNvOHhH?=
+ =?GB18030?B?WU1CQjJkclJRVnFla2tpc3FRZVcwbTZCaUJBUWZyczdnQWtuZGlEblduSXAy?=
+ =?GB18030?B?V1pXTldUWHcxcVAzYnE4RmluRS9LcWNaeFdrTzZUeCsyeHhwYWJuQnVzbzVD?=
+ =?GB18030?B?MkltNGMrTnBZOWNKSEk2RWhXMHJKRnBOVExNUHczYjNZd0dFdm9lRmZMWmRu?=
+ =?GB18030?B?MVVORURkRW5Zc0lud3VmMjY3bUwwcURvaExjUHFwK0czZ2lHd1pJV2s3Zlhr?=
+ =?GB18030?B?Y3NucFNQbGhFWDhxSThYL0VCTDM0cW4yOWo3cXZBbUxvdW53OHRDM0gzd2JE?=
+ =?GB18030?B?Zmh5ODFWRlhtMUpPTW9tSTBRbzcrZXpWaStUWmtRcjYwT3hCMG1aeEl6Qitj?=
+ =?GB18030?B?NzR2WmlzRTE1L0xyRDJHY1hPVmlCSG50eEIvVTZXelJhamFsTGZaUEtMY0x4?=
+ =?GB18030?B?V0JEcktOVUg0cVpBaDBWT0ZrblB5K3h2SVRFV2pmYjRuTTRac0RSUFlmaHhD?=
+ =?GB18030?B?ZVhmTVo5amx4cUZxbVhXT1laQW9kU204TlBWdnB3SmlzN2p1S1FKTUxHZUhZ?=
+ =?GB18030?B?cGRjYnp2dDRWVDNYbFhVdzl2eUxFOEg0QUJVRmNDVm90ZS9CcjZ6S2VJK04v?=
+ =?GB18030?B?dWR2K1BjdVNJM3pQQVl3ZTBPV2FndEt0R01qWUd3LzkzSjk5dytPSXdFckda?=
+ =?GB18030?B?Q242clZKVWl4dkJBbVRXTWxoS3BDMWhySWR2QUFMVmpuTzhhUlNSUnFmL2RK?=
+ =?GB18030?B?cXJkbzM0R3RsTEUreFF3cXkveHBXL3UwYlR4aFpmQnhOcWkzZzE4ZHBTd2R2?=
+ =?GB18030?B?WHhOZUpMeW1ETms2dFkzcXlFNTRkRlo4Q1A0aU5YL2h5cjVMc3M3Y1d5LzFG?=
+ =?GB18030?B?UVV4Vm11RmdLR05sQ2FNTnRPdUVxZDBScmhyNWRKdld2VXppc3BTckFGNWx4?=
+ =?GB18030?B?K3MwcG9BdGIva0ppc1ZjWVExN0liZ29taXltZWhqZWFiWU5sYytxWHBSZC9S?=
+ =?GB18030?B?NWk5YytrcU5ZNGw4dkptMWtCMndRcTByeDVPQ3NIQktqaHI2MVM1T2NIOXhX?=
+ =?GB18030?B?L2Q4bkppREw0dVlyTEd5V0J0OW9zS0x2enRUNWw0Mi9tS1l4aHdyeUp6UUlV?=
+ =?GB18030?B?Uit2VnlwUUNhUWI4eS9zQ25HVzEvQ0JzRjNkMnBZNkVzam9obDZMOGY3TjdI?=
+ =?GB18030?B?SFhGclJoci95OTlYZ0JBZG9rckpsRTRDTkUwYXlPYTVqMjF5Vk96N2lmcDlL?=
+ =?GB18030?B?SUMzVWhIeXAyRkxleDg5N0JYR1BnY0p6VmtieTVTbDhIb3gydEw4Z1BkUEVk?=
+ =?GB18030?B?b1JyTTl2eUQzNTZoU3FONDBtYUVUUXdOd0FDM2dLaWd3dW0rOWUyTldEWkNF?=
+ =?GB18030?B?bXRnUDNvWXFwaTBSSEM3YTlxdkp2UjBPUWRKbmRtSUVpUkpBckZabUVxemE1?=
+ =?GB18030?B?UWtBNGwrLy9Zd0tubWNTOFJJY2tTMFlLVXpQRi9EdGtyRS9Od0pGTTlKQ01K?=
+ =?GB18030?B?Y1k2SWNhMlpQZEwzMkVjUWI2VXdTUUswMzg2c1Y2V0krbDdSdTlhQUdYWWR5?=
+ =?GB18030?B?K1ZkaHJYN0Q1eTd4WnN0NHFMcm1WZEdKRGdjd1gyRW9teFlXZ016RkphUjBE?=
+ =?GB18030?B?V0NOYXhkR3dUby9SRFJRaTljNmhTOVRZSHF6MVlSbFBaeHZoY1pHaHQ5QUtl?=
+ =?GB18030?B?V0xsYkJDczFDS08xbXowM0pFMm9Rek1BR1Y5YTEzeWFrTTVwV1ljYzQ4Y1po?=
+ =?GB18030?B?VUE2aDZ4WnkrTmljSXZVNXZNd1J5RzhQTnJTNk1EaHQyZW1iZFJpTTVkN1Fi?=
+ =?GB18030?B?dzlITWs4cDBGTjZqUkovRFJZRjRTYmhWQi9qei8yWEdlaGZ3ZTF3dnFLNGll?=
+ =?GB18030?B?c1l4VUxVNk91T29BZmlHdnIwNU5oUVQzRE1Vb3FsMHR3ay8wYW9ZbWNnOGFl?=
+ =?GB18030?B?TVVSb3Z6WkdPRVRRYlM3NHdLb3l6TlJ3OFRPSVdXaHdhUnJicTVkS3p3Ukl1?=
+ =?GB18030?B?S2RZNG9OMm16QUhCZTEyenFZSDZFcmJTSExkbXRpT29IOGpJUkJoalZ2eVZh?=
+ =?GB18030?B?T2cxN0dLM3ZlUGRvMHIvdGxpMDFCbU12WGYyK3Z5R050V0p6Z0pHR28rSmxn?=
+ =?GB18030?B?RlYvb1FVcnlDTlhNUkRmOGVLajRJZGxsQlNXK3JEcU53ZExuM3ppTmNXbUZM?=
+ =?GB18030?B?dE9nPT0=?=
+Content-Type: multipart/related;
+	boundary="_006_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+--_006_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_
+Content-Type: multipart/alternative;
+	boundary="_000_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_"
+
+--_000_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_
+Content-Type: text/plain; charset="GB18030"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Team,
+
+
+
+Greetings of the day !!!
+
+
+
+We=A1=AFre pleased to confirm your booking with confirmation no.23460057. B=
+ooking details are as follows.
+
+
+
+
+
+
+
+
+
+Keys Prima By Lemon Tree Hotel, Whitefield
+
+Plot No 6, 1st Phase Industrial Area, ITPL Road, Opp. Graphite India, Benga=
+luru,
+
+Karnataka - 560048,  India
+
+T: +91 8025130000 / +91 8067420300, E: reservationswf.keys@lemontreehotels.=
+com<mailto:reservationswf.keys@lemontreehotels.com>
+
+
+
+
+
+CONFIRMED # 23460057
+
+Namaste
+
+
+
+Thanks for making a confirmed reservation with us. We look forward to welco=
+ming you at Keys Prima Hotel, Whitefield.
+
+
+
+GUEST SCHEDULE
+
+
+
+Company name
+
+Sutherland Global Services Private Limited
+
+GST No.
+
+33AAECS8093A4ZF
+
+
+
+Name of the guest(s)
+
+Mr. Palin Jebamalar
+
+
+
+
+
+
+
+
+
+Number of guest(s), Adult(s)
+Children
+
+1
+
+ Number of room(s)
+
+1
+
+Arrival date
+
+17 May 2026
+
+ Departure date
+
+
+
+31 May 2026
+
+
+
+Flight details /Arrival time
+
+14:00
+
+ Departure time
+
+12:00
+
+Airport transfer
+
+Not Required
+
+Room category
+
+Deluxe Double Room
+
+Mode of payment
+
+Room + Taxes by Company and extra direct by guest.
+
+Room rate
+
+
+
+Rs. 3500.00 per room, per night, plus applicable taxes.
+
+Additional request(s)
+
+
+Here=A1=AFs what you get (inclusions)
+
+Rest Assured in a clean and comfortable environment.
+
+Inclusions: Room | Breakfast | Wi Fi for up to 2 devices per person | 2 bot=
+tles of water per room per day.
+
+Rest Assured is a Lemon Tree Hotels initiative showcasing our commitment to=
+ creating an environment focused on health, hygiene, safety, and wellbeing.=
+ The safety and wellbeing of our guests and team members are of the utmost =
+importance to us and we want everyone to rest assured that they are in safe=
+ hands.
+
+*Buffet services may not be available at all properties. Meals as part of t=
+he stay package could be buffets or select/TDH menus, as determined by the =
+property
+
+
+
+
+
+For additional information about the property, visit www.lemontreehotels.co=
+m<https://urldefense.com/v3/__http://delivery.lemontreehotels.com/YBRWGI?id=
+=3D85290=3DcR5VVFsCCw0CTAYEUlRUUlBQBloMVQ8JVldXUVRSUlcKAFJVBQ4PDFZRUlIGUA0B=
+AlYeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNNVVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBMNFht=
+WVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQoJTG57ZmV3KglfBklFVQ=3D=3D&fl=3DWhYRFFkY=
+FkNFR01aUw9aXRIWBwZdC0xdChcfAV9aSQ=3D=3D__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddl=
+rJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0=
+IlorvKEgzoZQboGSaKKoEf$>.
+
+
+
+In order to confirm and guarantee this reservation beyond 2 pm on the day o=
+f arrival, may we request you to provide us with your credit card details a=
+s under:
+
+Name of the credit card holder:.............................
+
+
+
+Validity                                 :.............................
+
+Visa/Mastercard/Amex/JCB     :.............................
+
+Please note, that the suite/s and the rate will be confirmed subject to ava=
+ilability, at the time of receipt of the credit card information.
+
+
+
+CHAUFFEUR ON ARRIVAL
+
+Should you ask for a chargeable (unless specified otherwise) airport pickup=
+ on arrival, the chauffeur and car details will be sent to you via sms, one=
+ hour before the expected time of arrival of the flight. Please note: Deliv=
+ery of the sms is subject to the telecom service provider's network.
+
+
+
+IDENTITY PROOF
+
+In keeping with Government regulations, we request each guest (regardless o=
+f occupancy) to carry a photo identity to present on check-in. Foreign nati=
+onals are required to present their valid passport and visa. Indian nationa=
+ls can present any government issued photo identity and address proof card =
+e.g. driving license, passport, Aadhar card or voter=A1=AFs ID card. PAN Ca=
+rd will not be accepted as the above. Also, please do keep handy proof of c=
+orporate affiliations, if you have made a corporate booking.
+
+
+NO SMOKING
+
+The Government of India has introduced a =A1=AEno smoking=A1=AF rule for ho=
+tels, restaurants and all public places. This means smoking is prohibited i=
+n all parts of the property except in designated guest rooms/suites and dem=
+arcated smoking areas.
+
+
+
+SPECIAL REQUESTS
+
+=A1=F1        Requests for a specific bed type or a smoking room/suite pref=
+erence will be subject to availability at the time of check-in
+
+=A1=F1        Extra beds are available on advance notice, at an additional =
+charge not exceeding INR 1,500 plus applicable taxes and service charge
+
+=A1=F1        A maximum of one extra bed can be accommodated per room/suite
+
+
+
+CHILD POLICY
+
+=A1=F1        Up to two children below the age of 6 years can stay on a com=
+plimentary basis, inclusive of breakfast, in the same room/suite
+
+=A1=F1        For one child below 6 years of age, and/or one child between =
+6 and 12 years, we will provide an extra bed on chargeable basis in the sam=
+e room/suite. Breakfast charges for the elder child will be at 50% of the b=
+uffet price
+
+=A1=F1        For two children above 6 years of age, an additional room/sui=
+te must be booked
+
+
+
+CHECK-IN/CHECK-OUT POLICY
+
+Our check-in time is 2 pm and our check-out time is 12 noon. If you want to=
+ check-in early or sleep in and check-out late, we will be happy to oblige,=
+ subject to availability and at a nominal additional charge.
+
+
+
+GUARANTEE AND CANCELLATION POLICY
+
+=816=A61         For all bookings, including Infinity Rewards (other than n=
+on-cancellable/non-amendable/complimentary reservations) cancellations/amen=
+dments must be made as per the cancellation/amendment policy stated in the =
+last point, to avoid a one-night cancellation fee plus taxes; for reward bo=
+okings, this cancellation fee will be redeemed via coins. The same is appli=
+cable in case of a no-show
+
+=816=A61         In case of an early check-out, the full amount for the rem=
+aining length of stay, including taxes, will be charged
+
+=816=A61         For this reservation, cancellations/amendments are allowed=
+ till 2:00 PM, 2 days prior to arrival, to avoid a one-night cancellation f=
+ee.
+
+
+
+REST ASSURED
+
+=816=A61         Rest Assured is a Lemon Tree Hotels=A1=AF initiative, show=
+casing our commitment to creating an environment focused on health, hygiene=
+, safety and wellbeing
+
+=816=A61         As part of the new cleanliness and hygiene standards, we h=
+ave collaborated with Diversey, a global leader in this space. They are pro=
+viding us with US EPA approved safe chemicals, operating checklists, traini=
+ng support, videos and support materials to add to our own repertoire of pr=
+ocesses and procedures, and will be conducting regular reviews in all prope=
+rties, as part of this association
+
+=816=A61         The safety and wellbeing of our guests and team members is=
+ of the utmost importance to us, and we want everyone to rest assured that =
+they are in safe hands
+
+
+
+For further details on the Rest Assured Initiative, please visit www.lemont=
+reehotels.com/rest-assured.aspx<https://urldefense.com/v3/__http://delivery=
+.lemontreehotels.com/YBRWGI?id=3D85290=3DcR5VVFsCCw0CTABUB1YAUF9VU1oCAl0MUA=
+EGAAQOUgNXUQNdAQUAAwoFW1UBUQQAU1YeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNNVVkPSQJQX=
+VRUBVALDlBdAlAEAFMCTgoREBMNFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQoJTG57ZmV3=
+KglfBklFVQ=3D=3D&fl=3DWhYRFFkYFkNFR01aUw9aXRIWBwZdC0xdChcfAV9aSUBXERFJAkRKQ=
+UBVBxhXEUVL__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL=
+8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGfKcUWb3$>
+
+
+
+ONE STOP SHOP
+
+For lowest rates guaranteed, you can book at www.lemontreehotels.com<https:=
+//urldefense.com/v3/__http://delivery.lemontreehotels.com/YBRWGI?id=3D85290=
+=3DcR5VVFsCCw0CTAYEUlRUUlBQBloMVQ8JVldXUVRSUlcKAFJVBQ4PDFZRUlIGUA0BAlYeAlEL=
+SxYWF3EOVVoJXEYQAAELWE1RXkNNVVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBMNFhtWVQ9fQAd=
+HSkgIBw5aCkxKAwFZDURSCkEcAQoJTG57ZmV3KglfBklFVQ=3D=3D&fl=3DWhYRFFkYFkNFR01a=
+Uw9aXRIWBwZdC0xdChcfAV9aSQ=3D=3D__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw=
+5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEg=
+zoZQboGSaKKoEf$> or call Central Reservations at +91 9911701701.
+
+
+
+INFINITY REWARDS BY LEMON TREE
+
+Infinity Rewards by Lemon Tree allows you to earn and burn coins easier tha=
+n ever before. Infinity levels include Silver, Gold and Platinum tiers, and=
+ each tier offers members exclusive rewards and privileges with endless pos=
+sibilities, from free room nights and upgrades to special offers and previe=
+ws. Sign Up<https://urldefense.com/v3/__http://delivery.lemontreehotels.com=
+/YBRWGI?id=3D85290=3DcR5VVFsCCw0CTFUCVVJUCwBTV1AFVQpZXgEEUglWUgBRUlFRBQEABQ=
+NWUVJTVQABXlEeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNNVVkPSQJQXVRUBVALDlBdAlAEAFMCT=
+goREBMNFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQoJTG57ZmV3KglfBklFVQ=3D=3D&fl=
+=3DWhYRFBANFhtFRxQYWgdYXAgQEAZQDFdMAwhCTFNYCx1ABxIFEVNKGlNDE04=3D__;!!O-q2Q=
+RjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45J=
+AsjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGeR7vzvn$> now and earn more every t=
+ime you stay with us.
+
+
+
+
+
+Terms & Conditions<https://urldefense.com/v3/__http://delivery.lemontreehot=
+els.com/YBRWGI?id=3D85290=3DcR5VVFsCCw0CTFAEDwcDBVdcBlsAUVxdBQUEAQEAAgcEV1N=
+cAA9fAgMDBlICA1FQBVYeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNNVVkPSQJQXVRUBVALDlBdAl=
+AEAFMCTgoREBMNFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQoJTG57ZmV3KglfBklFVQ=3D=
+=3D&fl=3DWhYRFBANFhtFRxQYWgdYXAgQEAZQDFdMAwhCTFNYCx1GBxcJTlRWWlZZF19ZDBtSFR=
+Qa__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9N=
+nXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGei9ACkt$> and Privacy P=
+olicy<https://urldefense.com/v3/__http://delivery.lemontreehotels.com/YBRWG=
+I?id=3D85290=3DcR5VVFsCCw0CTFtVBAEHBVICAQFUV1tbU1JVVAcGUQsABwEAVFUBDFEIAgcD=
+WwwCVwUeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNNVVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBM=
+NFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQoJTG57ZmV3KglfBklFVQ=3D=3D&fl=3DWhYR=
+FBANFhtFRxQYWgdYXAgQEAZQDFdMAwhCTFNYCx1CEAwSAlRAGUJfD19VGxtSFRQa__;!!O-q2QR=
+jLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JA=
+sjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGaBrbA-5$>
+
+DISCLAIMER:
+This communication is confidential and may be legally privileged. If you ar=
+e not the intended recipient; (i) please do not read or disclose to others,=
+ (ii) please notify the sender by reply mail, and (iii) please delete this =
+communication from your system. Failure to follow this process may be unlaw=
+ful. Thank you for your cooperation.
+
+
+
+Warm Regards,
+
+
+
+Manoj Panda
+
+Reservations Executive
+
+
+
+Keys Prima Hotel - Whitefield, Bengaluru
+Plot No 6,1st Phase Industrial Area, I T P L Road, Bengaluru -560 048
+T +91 80 67420300 | M +91  8310157164
+
+
+
+For further information, visit www.lemontreehotels.com<https://urldefense.c=
+om/v3/__http://www.lemontreehotels.com/__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlr=
+J7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0I=
+lorvKEgzoZQboGQSYmZyW$> or call +91 9911 701 701
+
+
+
+
+
+
+
+From: Travels.India [mailto:Travels.India@sutherlandglobal.com]
+Sent: 17 May 2026 16:11
+To: reservations@lemontreehotels.com; reservationswf.keys@lemontreehotels.c=
+om; 'Prabakaran C'; 'Rahul Zetshi'; 'Vignesh C'; fowf2.keys@lemontreehotels=
+.com
+Cc: Santosh Peter Antony Mathias
+Subject: RE: Room Reservation - HFD9 for Palin Jebamalar - Urgent
+
+
+
+Hi Team,
+
+
+
+Following up on the below email, the guest will check in tomorrow morning a=
+t 6:00 AM. Kindly reserve the booking accordingly and share the confirmatio=
+n with us.
+
+
+
+
+
+<http://www.sutherlandglobal.com/>Regards,
+
+          Gayathri P
+
+          Travels India
+
+          Gateway Office Parks
+          Building No B-2 Block, 2nd Floor ,
+
+          No: 16, GST Road, Perungalathur,
+
+          Chennai-600063
+
+          Emergency Number 8754545233
+
+
+
+
+
+
+
+From: Travels.India <Travels.India@sutherlandglobal.com>
+Sent: Saturday, May 16, 2026 7:45 PM
+To: reservations@lemontreehotels.com; reservationswf.keys@lemontreehotels.c=
+om; 'Prabakaran C' <sales1.cn@lemontreehotels.com>; 'Rahul Zetshi' <hos.sou=
+th@lemontreehotels.com>; 'Vignesh C' <sales4.cn@lemontreehotels.com>; fowf2=
+.keys@lemontreehotels.com
+Cc: Santosh Peter Antony Mathias <SANTOSHPETERANTONY.MATHIAS@sutherlandglob=
+al.com>
+Subject: Room Reservation - HFD9 for Palin Jebamalar - Urgent
+
+
+
+Hi Team,
+
+
+
+Please reserve a room under the Sutherland Corporate rate and share us the =
+confirmation voucher.
+
+
+
+
+
+Hotel Near
+
+Keys select by lemon tree, Whitefield
+
+No. of rooms
+
+1
+
+Name of Guests
+
+Palin Jebamalar
+
+Contact details
+
+Travels.India@sutherlandglobal.com<mailto:Travels.India@sutherlandglobal.co=
+m>
+
+Check-in date
+
+17-May
+
+Arrival details
+
+TBA
+
+Check-out date
+
+31-May
+
+Departure Details
+
+TBA
+
+Room type
+
+Standard
+
+Occupancy
+
+Single
+
+Mode of payments
+
+BILL TO COMPANY --> Room +Taxes -BILL TO COMPANY
+
+All Incidental /extra=A1=AFs will be directly from Guest
+
+Billing Details (Instructions)
+
+TAR =A8C HFD9
+
+EM ID : 681396
+
+ Level =A8C L4
+
+Job Code: 12679
+
+Employee Base Location - IND22
+
+Inclusions
+
+As per the contract
+
+Remarks, If any
+
+King size bed
+
+
+
+
+
+
+
+
+
+<http://www.sutherlandglobal.com/>Regards,
+
+          Gayathri P
+
+          Travels India
+
+          Gateway Office Parks
+          Building No B-2 Block, 2nd Floor ,
+
+          No: 16, GST Road, Perungalathur,
+
+          Chennai-600063
+
+          Emergency Number 8754545233
+
+
+
+  _____
+
+This email message is for the sole use of the intended recipient(s) and may=
+ contain information that is confidential, privileged, proprietary and prot=
+ected from disclosure by applicable law. Any unauthorized review, use, dupl=
+ication, disclosure or distribution is strictly prohibited. If you are not =
+the intended recipient, please contact the sender by reply email and immedi=
+ately destroy all copies of this message, including electronic and hard cop=
+ies. Thank you for your cooperation.
+
+DISCLAIMER:
+
+This email, including any attachments, is intended solely for the use of th=
+e individual or entity to whom it is intended to be addressed and may conta=
+in confidential, privileged information that may constitute Unpublished Pri=
+ce Sensitive Information (UPSI). Any unauthorised review, retransmission, d=
+issemination or disclosure is prohibited and/or may be unlawful. If you are=
+ not the intended recipient, please notify the sender immediately, and dele=
+te this message from your system. Unauthorised use, disclosure, distributio=
+n, or copying of this email or its contents is strictly prohibited.
+
+The company (=A1=AELemon Tree Hotels=A1=AF) makes no representations or war=
+ranties regarding the completeness or accuracy of the information contained=
+ in this email, nor does it accept any liability for any errors, omissions,=
+ or potential damage caused by viruses or other harmful content transmitted=
+ via email.
+
+Any views or opinions expressed in this email are those of the author and d=
+o not necessarily represent the views of the Lemon Tree Hotels unless other=
+wise stated. Further this email is subject to terms at: www.lemontreehotels=
+.com/privacy-policy.aspx#emaildisclaimer<https://urldefense.com/v3/__http:/=
+/www.lemontreehotels.com/privacy-policy.aspx*emaildisclaimer__;Iw!!O-q2QRjL=
+diIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsj=
+SRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGT3pXIgd$>.
+
+Please consider the environment before printing this email.
+
+
+--_000_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_
+Content-Type: text/html; charset="GB18030"
+Content-ID: <254677C7DDCDB64489F0D135972FB597@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DGB18030">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Aptos;}
+@font-face
+	{font-family:"Noto Sans Symbols";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Aptos;
+	mso-ligatures:standardcontextual;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#467886;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#96607D;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ligatures:standardcontextual;}
+span.NormalWebChar1
+	{mso-style-name:"Normal \(Web\) Char1\,Normal \(Web\) Char Char\,Normal \(=
+Web\) Char Char Char1\,??\(??\) Char\,Normal \(Web\) Char Char Char Char Ch=
+ar\,Normal \(Web\) Char Char Char Char1\,Normal \(Web\) Char Char1\,\666E  =
+   \901A     \(\7F51     \7AD9     \) Char\,\00E6\2122\00AE\00E9\20AC\0161\=
+(\00E7\00BD\2018\00E7\00AB\2122\) Char";
+	mso-style-priority:99;
+	mso-style-link:"wordsection1\,m_\,9034989704951977135gmail";
+	font-family:"Calibri","sans-serif";}
+p.wordsection1, li.wordsection1, div.wordsection1
+	{mso-style-name:"wordsection1\,m_\,9034989704951977135gmail";
+	mso-style-priority:99;
+	mso-style-link:"Normal \(Web\) Char1\,Normal \(Web\) Char Char\,Normal \(W=
+eb\) Char Char Char1\,??\(??\) Char\,Normal \(Web\) Char Char Char Char Cha=
+r\,Normal \(Web\) Char Char Char Char1\,Normal \(Web\) Char Char1\,\666E   =
+  \901A     \(\7F51     \7AD9     \) Char\,\00E6\2122\00AE\00E9\20AC\0161\(=
+\00E7\00BD\2018\00E7\00AB\2122\) Char";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ligatures:standardcontextual;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:Aptos;
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Verdana","sans-serif";
+	color:black;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";
+	mso-ligatures:standardcontextual;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-IN" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:black">Dear Team,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:black">Greetings of the day !!!<o:p></o:p></span></=
+p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:black">We=A1=AFre pleased to confirm your booking w=
+ith confirmation no.</span>23460057<span style=3D"font-family:&quot;Verdana=
+&quot;,&quot;sans-serif&quot;;color:black">. Booking details are as follows=
+.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr style=3D"height:47.7pt">
+<td width=3D"15" valign=3D"top" style=3D"width:11.4pt;padding:0cm 5.4pt 0cm=
+ 5.4pt;height:47.7pt">
+<p class=3D"MsoNormal" style=3D"line-height:105%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:105%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">&nbsp;</span></b><span style=3D"mso-fareast-language:JA"><o:p></o:p=
+></span></p>
+</td>
+<td width=3D"689" valign=3D"top" style=3D"width:516.65pt;padding:0cm 5.4pt =
+0cm 5.4pt;height:47.7pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right;line-heigh=
+t:105%"><b><span style=3D"font-size:10.0pt;line-height:105%;font-family:&qu=
+ot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></b><span style=3D"fo=
+nt-size:11.0pt;line-height:105%;mso-fareast-language:EN-US"><o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right;line-heigh=
+t:105%"><b><span style=3D"font-size:10.0pt;line-height:105%;font-family:&qu=
+ot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></b><span style=3D"fo=
+nt-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-ligatures:none"=
+><o:p></o:p></span></p>
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right;line-heigh=
+t:105%"><b><span style=3D"font-family:&quot;Verdana&quot;,&quot;sans-serif&=
+quot;;color:black">Keys Prima By Lemon Tree Hotel,</span></b><b><span style=
+=3D"font-size:10.0pt;line-height:105%;font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;">
+ Whitefield</span></b><span style=3D"font-size:11.0pt;line-height:105%;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right;line-heigh=
+t:105%"><span style=3D"font-size:10.0pt;line-height:105%;font-family:&quot;=
+Verdana&quot;,&quot;sans-serif&quot;">Plot No 6, 1st Phase Industrial Area,=
+ ITPL Road, Opp. Graphite India, Bengaluru,&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right;line-heigh=
+t:105%"><span style=3D"font-size:10.0pt;line-height:105%;font-family:&quot;=
+Verdana&quot;,&quot;sans-serif&quot;">Karnataka - 560048,&nbsp; India</span=
+><span style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right;line-heigh=
+t:105%"><span style=3D"font-size:10.0pt;line-height:105%;font-family:&quot;=
+Verdana&quot;,&quot;sans-serif&quot;">T: +91 8025130000 / +91 8067420300, E=
+:
+<u><span style=3D"color:blue"><a href=3D"mailto:reservationswf.keys@lemontr=
+eehotels.com">reservationswf.keys@lemontreehotels.com</a></span></u></span>=
+<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"line-height:105%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:105%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">&nbsp;</span></b><span style=3D"mso-fareast-language:JA"><o:p></o:p=
+></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></b><span style=3D"font=
+-size:11.0pt;mso-fareast-language:EN-US"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Verdana&quot;,&quot;sans-serif&quot;">CONFIRMED # 23460057</span></b><span=
+ style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;mso-ligatu=
+res:none"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Verdana&quot;,&quot;sans-serif&quot;;color:black">Namaste</span></b><o:p><=
+/o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Thanks for=
+ making a confirmed reservation with us.
+<span style=3D"color:black">We look forward to welcoming you at</span> <b><=
+span style=3D"color:black">Keys Prima Hotel, Whitefield.</span></b></span><=
+o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black=
+">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:bl=
+ack">GUEST SCHEDULE</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;">&nbsp;</span><o:p></o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"699" style=3D"width:524.5pt;margin-left:5.4pt;border-collap=
+se:collapse;border-spacing: 0px;box-sizing: border-box">
+<tbody>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Company name</span></b><span style=3D"mso-fareast-language:JA"><o:p=
+></o:p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" style=3D"width:380.5pt;padding:0cm 5.4pt 0c=
+m 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Verdana&quot;,&quot;sans-serif&quot;">Sutherland Global Services Private L=
+imited<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">GST No.</span></b><span style=3D"mso-fareast-language:JA"><o:p></o:=
+p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" style=3D"width:380.5pt;padding:0cm 5.4pt 0c=
+m 5.4pt;height:21.6pt">
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+style=3D"font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;background:=
+yellow;mso-highlight:yellow"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&=
+quot;">33AAECS8093A4ZF<span style=3D"color:black"><o:p></o:p></span></span>=
+</p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+style=3D"font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black=
+"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Name of the guest(s)</span></b><span style=3D"mso-fareast-language:=
+JA"><o:p></o:p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" style=3D"width:380.5pt;padding:0cm 5.4pt 0c=
+m 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">Mr. Palin Jebamalar</span><span style=3D"mso-fareast-language:JA"><o:p=
+></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">&nbsp;</span></b><span style=3D"mso-fareast-language:JA"><o:p></o:p=
+></span></p>
+</td>
+<td width=3D"164" style=3D"width:123.0pt;padding:0cm 5.4pt 0cm 5.4pt;height=
+:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;</span><span style=3D"mso-fareast-language:JA"><o:p></o:p></span=
+></p>
+</td>
+<td width=3D"154" style=3D"width:115.5pt;background:#D9D9D9;padding:0cm 0cm=
+ 0cm 0cm;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;</span><span style=3D"mso-fareast-language:JA"><o:p>=
+</o:p></span></p>
+</td>
+<td width=3D"189" style=3D"width:142.0pt;padding:0cm 0cm 0cm 0cm;height:21.=
+6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sp=
+an><span style=3D"mso-fareast-language:JA"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Number of guest(s), Adult(s)<br>
+Children</span></b><span style=3D"mso-fareast-language:JA"><o:p></o:p></spa=
+n></p>
+</td>
+<td width=3D"164" style=3D"width:123.0pt;padding:0cm 5.4pt 0cm 5.4pt;height=
+:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">1</span><span style=3D"mso-fareast-language:JA"><o:p></o:p></span></p>
+</td>
+<td width=3D"154" style=3D"width:115.5pt;background:#D9D9D9;padding:0cm 0cm=
+ 0cm 0cm;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;Number of room(s)</span><span style=3D"mso-fareast-l=
+anguage:JA"><o:p></o:p></span></p>
+</td>
+<td width=3D"189" style=3D"width:142.0pt;padding:0cm 0cm 0cm 0cm;height:21.=
+6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:black">1</span><span style=3D"mso-fareast-language:JA"><o:p></o:p=
+></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Arrival date</span></b><span style=3D"mso-fareast-language:JA"><o:p=
+></o:p></span></p>
+</td>
+<td width=3D"164" style=3D"width:123.0pt;padding:0cm 5.4pt 0cm 5.4pt;height=
+:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">17 May 2026</span><span style=3D"mso-fareast-language:JA"><o:p></o:p><=
+/span></p>
+</td>
+<td width=3D"154" style=3D"width:115.5pt;background:#D9D9D9;padding:0cm 0cm=
+ 0cm 0cm;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;Departure date</span><span style=3D"mso-fareast-lang=
+uage:JA"><o:p></o:p></span></p>
+</td>
+<td width=3D"189" style=3D"width:142.0pt;padding:0cm 0cm 0cm 0cm;height:21.=
+6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:black">&nbsp;</span><span style=3D"font-size:10.0pt;line-height:1=
+15%;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black"><o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:black">31</span><span style=3D"font-size:10.0pt;line-height:115%;=
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;May 2026</spa=
+n><span style=3D"mso-fareast-language:EN-US"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;</span><span style=3D"mso-fareast-language:JA"><o:p></o:p></span=
+></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Flight details /Arrival time</span></b><span style=3D"mso-fareast-l=
+anguage:JA"><o:p></o:p></span></p>
+</td>
+<td width=3D"164" style=3D"width:123.0pt;padding:0cm 5.4pt 0cm 5.4pt;height=
+:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">14:00</span><span style=3D"mso-fareast-language:JA"><o:p></o:p></span>=
+</p>
+</td>
+<td width=3D"154" style=3D"width:115.5pt;background:#D9D9D9;padding:0cm 0cm=
+ 0cm 0cm;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;Departure time</span><span style=3D"mso-fareast-language:JA"><o:=
+p></o:p></span></p>
+</td>
+<td width=3D"189" style=3D"width:142.0pt;padding:0cm 0cm 0cm 0cm;height:21.=
+6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;;color:black">12:00 &nbsp;</span><span style=3D"mso-fareast-language:JA"=
+><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Airport transfer</span></b><span style=3D"mso-fareast-language:JA">=
+<o:p></o:p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" style=3D"width:380.5pt;padding:0cm 5.4pt 0c=
+m 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">Not Required</span><span style=3D"mso-fareast-language:JA"><o:p></o:p>=
+</span></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Room category</span></b><span style=3D"mso-fareast-language:JA"><o:=
+p></o:p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" style=3D"width:380.5pt;padding:0cm 5.4pt 0c=
+m 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">Deluxe Double Room</span><span style=3D"mso-fareast-language:JA"><o:p>=
+</o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Mode of payment</span></b><span style=3D"mso-fareast-language:JA"><=
+o:p></o:p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" style=3D"width:380.5pt;padding:0cm 5.4pt 0c=
+m 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">Room + Taxes by Company and extra direct by guest.</span><span style=
+=3D"mso-fareast-language:JA"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Room rate</span></b><span style=3D"mso-fareast-language:JA"><o:p></=
+o:p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" style=3D"width:380.5pt;padding:0cm 5.4pt 0c=
+m 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">&nbsp;</span><span style=3D"font-size:11.0pt;line-height:115%;mso-fare=
+ast-language:EN-US"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">Rs. 3500.00<span style=3D"color:#2B2E2F">
+</span>per room, per night, <span style=3D"color:#2B2E2F">plus applicable t=
+axes.</span></span><span style=3D"mso-fareast-language:JA"><o:p></o:p></spa=
+n></p>
+</td>
+</tr>
+<tr style=3D"height:21.6pt">
+<td width=3D"192" style=3D"width:144.0pt;background:#D9D9D9;padding:0cm 5.4=
+pt 0cm 5.4pt;height:21.6pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Additional request(s)</span></b><span style=3D"mso-fareast-language=
+:JA"><o:p></o:p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" style=3D"width:380.5pt;padding:0cm 5.4pt 0c=
+m 5.4pt;height:21.6pt">
+</td>
+</tr>
+<tr style=3D"height:12.8pt">
+<td width=3D"192" valign=3D"top" style=3D"width:144.0pt;background:#D9D9D9;=
+padding:0cm 5.4pt 0cm 5.4pt;height:12.8pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><b><span style=3D"font-si=
+ze:10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif=
+&quot;">Here=A1=AFs what you get (inclusions)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b><span style=3D"mso-fareast-l=
+anguage:JA"><o:p></o:p></span></p>
+</td>
+<td width=3D"507" colspan=3D"3" valign=3D"top" style=3D"width:380.5pt;paddi=
+ng:0cm 5.4pt 0cm 5.4pt;height:12.8pt">
+<p class=3D"MsoNormal" style=3D"line-height:115%"><span style=3D"font-size:=
+10.0pt;line-height:115%;font-family:&quot;Verdana&quot;,&quot;sans-serif&qu=
+ot;">Rest Assured in a clean and comfortable environment.<br>
+<br>
+Inclusions: Room | Breakfast | Wi Fi for up to 2 devices per person | 2 bot=
+tles of water per room per day.<br>
+<br>
+Rest Assured is a Lemon Tree Hotels initiative showcasing our commitment to=
+ creating an environment focused on health, hygiene, safety, and wellbeing.=
+ The safety and wellbeing of our guests and team members are of the utmost =
+importance to us and we want everyone
+ to rest assured that they are in safe hands.<br>
+<br>
+*Buffet services may not be available at all properties. Meals as part of t=
+he stay package could be buffets or select/TDH menus, as determined by the =
+property</span><span style=3D"font-size:11.0pt;line-height:115%;mso-fareast=
+-language:EN-US"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center;line-hei=
+ght:115%"><span style=3D"font-size:10.0pt;line-height:115%;font-family:&quo=
+t;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span><span style=3D"mso-far=
+east-language:JA"><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><span style=3D"font-size:11.0pt;mso-fareast-language:EN-US"><o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">For additi=
+onal information about the property, visit
+<u><span style=3D"color:blue"><a href=3D"https://urldefense.com/v3/__http:/=
+/delivery.lemontreehotels.com/YBRWGI?id=3D85290=3DcR5VVFsCCw0CTAYEUlRUUlBQB=
+loMVQ8JVldXUVRSUlcKAFJVBQ4PDFZRUlIGUA0BAlYeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNN=
+VVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBMNFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQo=
+JTG57ZmV3KglfBklFVQ=3D=3D&amp;fl=3DWhYRFFkYFkNFR01aUw9aXRIWBwZdC0xdChcfAV9a=
+SQ=3D=3D__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AO=
+pIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGSaKKoEf$">www.lem=
+ontreehotels.com</a></span></u>.</span><span style=3D"font-family:&quot;Tim=
+es New Roman&quot;,&quot;serif&quot;;mso-ligatures:none"><o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sa=
+ns-serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">In orde=
+r to confirm and guarantee this reservation beyond 2 pm on the day of arriv=
+al, may we request you to provide us with your credit card
+ details as under:</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Name of th=
+e credit card holder:.............................</span><span style=3D"fon=
+t-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Validity&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:.............................</sp=
+an><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Visa/Maste=
+rcard/Amex/JCB&nbsp;&nbsp;&nbsp;&nbsp; :.............................</span=
+><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Please not=
+e, that the suite/s and the rate will be confirmed subject to availability,=
+ at the time of receipt of the credit card information.</span><o:p></o:p></=
+p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">CHAUFFE=
+UR ON ARRIVAL</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Should you=
+ ask for a chargeable (unless specified otherwise) airport pickup on arriva=
+l, the chauffeur and car details will be sent to you via sms,
+ one hour before the expected time of arrival of the flight. Please note: D=
+elivery of the sms is subject to the telecom service provider's network.</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&q=
+uot;">&nbsp;</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">IDENTIT=
+Y PROOF</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">In keeping=
+ with Government regulations, we request each guest (regardless of occupanc=
+y) to carry a photo identity to present on check-in. Foreign
+ nationals are required to present their valid passport and visa. Indian na=
+tionals can present any government issued photo identity and address proof =
+card e.g.
+<b>driving license, passport, Aadhar card or voter=A1=AFs ID card.&nbsp;PAN=
+ Card will not be accepted as the above.
+</b>Also, please do keep handy proof of corporate affiliations, if you have=
+ made a corporate booking.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+<b>NO SMOKING</b></span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">The Govern=
+ment of India has introduced a =A1=AEno smoking=A1=AF rule for hotels, rest=
+aurants and all public places. This means smoking is prohibited in all
+ parts of the property except in designated guest rooms/suites and demarcat=
+ed smoking areas.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">SPECIAL=
+ REQUESTS</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"margin-left:18.0pt;text-indent:-18.0pt"><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;">=A1=
+=F1</span><span style=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quo=
+t;sans-serif&quot;">Requests for a specific bed type or a smoking room/suit=
+e preference will be subject to availability at the time of check-in</span>=
+<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"margin-left:18.0pt;text-indent:-18.0pt"><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;">=A1=
+=F1</span><span style=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quo=
+t;sans-serif&quot;">Extra beds are available on advance notice, at an addit=
+ional charge not exceeding INR 1,500 plus applicable taxes and service char=
+ge</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"margin-left:18.0pt;text-indent:-18.0pt"><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;">=A1=
+=F1</span><span style=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quo=
+t;sans-serif&quot;">A maximum of one extra bed can be accommodated per room=
+/suite</span><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Verdana&quot;,&quot;sans-serif&quot;">CHILD POLICY</span></b><o:p></o:p></=
+p>
+<p class=3D"MsoNormal" style=3D"margin-left:18.0pt;text-indent:-18.0pt"><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;">=A1=
+=F1</span><span style=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quo=
+t;sans-serif&quot;">Up to two children below the age of 6 years can stay on=
+ a complimentary basis, inclusive of breakfast, in the same room/suite</spa=
+n><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"margin-left:18.0pt;text-indent:-18.0pt"><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;">=A1=
+=F1</span><span style=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quo=
+t;sans-serif&quot;">For one child below 6 years of age, and/or one child be=
+tween 6 and 12 years, we will provide an extra bed on chargeable basis in t=
+he same room/suite. Breakfast charges for the elder child
+ will be at 50% of the buffet price</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"margin-left:18.0pt;text-indent:-18.0pt"><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Noto Sans Symbols&quot;">=A1=
+=F1</span><span style=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quo=
+t;sans-serif&quot;">For two children above 6 years of age, an additional ro=
+om/suite must be booked</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</s=
+pan></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">CHECK-I=
+N/CHECK-OUT POLICY</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">Our che=
+ck-in time is 2 pm and our check-out time is 12 noon.</span></b><span style=
+=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;=
+">&nbsp;If
+ you want to check-in early or sleep in and check-out late, we will be happ=
+y to oblige, subject to availability and at a nominal additional charge.</s=
+pan><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">GUARANT=
+EE AND CANCELLATION POLICY</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"margin-left:18.0pt;text-align:justify;text-=
+indent:-18.0pt">
+<span style=3D"font-size:10.0pt;font-family:Symbol">=A1=A4</span><span styl=
+e=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quo=
+t;sans-serif&quot;">For all bookings, including Infinity Rewards (other tha=
+n non-cancellable/non-amendable/complimentary reservations) cancellations/a=
+mendments must be made as per the cancellation/amendment
+ policy stated in the last point, to avoid a one-night cancellation fee plu=
+s taxes; for reward bookings, this cancellation fee will be redeemed via co=
+ins. The same is applicable in case of a no-show</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"margin-left:18.0pt;text-align:justify;text-=
+indent:-18.0pt">
+<span style=3D"font-size:10.0pt;font-family:Symbol">=A1=A4</span><span styl=
+e=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quo=
+t;sans-serif&quot;">In case of an early check-out, the full amount for the =
+remaining length of stay, including taxes, will be charged</span><o:p></o:p=
+></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;margin-left:18.0pt;text-align:justify;text-indent:-18.0pt">
+<span style=3D"font-size:10.0pt;font-family:Symbol">=A1=A4</span><span styl=
+e=3D"font-size:7.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><b><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&=
+quot;sans-serif&quot;">For this reservation, cancellations/amendments are a=
+llowed till 2:00 PM,</span></b><span style=3D"font-size:10.0pt;font-family:=
+&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;2 days prior to arrival, =
+to avoid
+ a one-night cancellation fee.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</s=
+pan></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">REST AS=
+SURED</span></b><span style=3D"font-family:&quot;Times New Roman&quot;,&quo=
+t;serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;margin-left:18.0pt;text-align:justify;text-indent:-18.0pt">
+<span style=3D"font-size:10.0pt">=816=A61</span><span style=3D"font-size:7.=
+0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-=
+serif&quot;">Rest Assured is a Lemon Tree Hotels=A1=AF initiative, showcasi=
+ng our commitment to creating an environment focused on health, hygiene, sa=
+fety and wellbeing</span><span style=3D"font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;margin-left:18.0pt;text-align:justify;text-indent:-18.0pt">
+<span style=3D"font-size:10.0pt">=816=A61</span><span style=3D"font-size:7.=
+0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-=
+serif&quot;">As part of the new cleanliness and hygiene standards, we have =
+collaborated with Diversey, a global leader in this space. They are providi=
+ng us with US EPA approved safe chemicals, operating checklists,
+ training support, videos and support materials to add to our own repertoir=
+e of processes and procedures, and will be conducting regular reviews in al=
+l properties, as part of this association</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;margin-left:18.0pt;text-align:justify;text-indent:-18.0pt">
+<span style=3D"font-size:10.0pt">=816=A61</span><span style=3D"font-size:7.=
+0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-=
+serif&quot;">The safety and wellbeing of our guests and team members is of =
+the utmost importance to us, and we want everyone to rest assured that they=
+ are in safe hands</span><span style=3D"font-family:&quot;Times New Roman&q=
+uot;,&quot;serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><span style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">For furthe=
+r details on the Rest Assured Initiative, please visit
+<u><span style=3D"color:blue"><a href=3D"https://urldefense.com/v3/__http:/=
+/delivery.lemontreehotels.com/YBRWGI?id=3D85290=3DcR5VVFsCCw0CTABUB1YAUF9VU=
+1oCAl0MUAEGAAQOUgNXUQNdAQUAAwoFW1UBUQQAU1YeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNN=
+VVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBMNFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQo=
+JTG57ZmV3KglfBklFVQ=3D=3D&amp;fl=3DWhYRFFkYFkNFR01aUw9aXRIWBwZdC0xdChcfAV9a=
+SUBXERFJAkRKQUBVBxhXEUVL__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZB=
+tNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGf=
+KcUWb3$">www.lemontreehotels.com/rest-assured.aspx</a></span></u></span><o:=
+p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><span style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"><=
+o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><span style=3D"font-=
+size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">ONE STO=
+P SHOP</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">For lowest=
+ rates guaranteed, you can book at
+<u><span style=3D"color:blue"><a href=3D"https://urldefense.com/v3/__http:/=
+/delivery.lemontreehotels.com/YBRWGI?id=3D85290=3DcR5VVFsCCw0CTAYEUlRUUlBQB=
+loMVQ8JVldXUVRSUlcKAFJVBQ4PDFZRUlIGUA0BAlYeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNN=
+VVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBMNFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQo=
+JTG57ZmV3KglfBklFVQ=3D=3D&amp;fl=3DWhYRFFkYFkNFR01aUw9aXRIWBwZdC0xdChcfAV9a=
+SQ=3D=3D__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AO=
+pIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGSaKKoEf$">www.lem=
+ontreehotels.com</a></span></u>&nbsp;or
+ call Central Reservations at +91 9911701701.</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">INFINITY =
+REWARDS BY LEMON TREE</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify;background:white"><span =
+style=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&=
+quot;">Infinity Rewards by Lemon Tree allows you to earn and burn coins eas=
+ier than ever before. Infinity levels include Silver, Gold
+ and Platinum tiers, and each tier offers members exclusive rewards and pri=
+vileges with endless possibilities, from free room nights and upgrades to s=
+pecial offers and previews.
+<u><span style=3D"color:blue"><a href=3D"https://urldefense.com/v3/__http:/=
+/delivery.lemontreehotels.com/YBRWGI?id=3D85290=3DcR5VVFsCCw0CTFUCVVJUCwBTV=
+1AFVQpZXgEEUglWUgBRUlFRBQEABQNWUVJTVQABXlEeAlELSxYWF3EOVVoJXEYQAAELWE1RXkNN=
+VVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBMNFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDURSCkEcAQo=
+JTG57ZmV3KglfBklFVQ=3D=3D&amp;fl=3DWhYRFBANFhtFRxQYWgdYXAgQEAZQDFdMAwhCTFNY=
+Cx1ABxIFEVNKGlNDE04=3D__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtN=
+SHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGeR7=
+vzvn$">Sign
+ Up</a></span></u>&nbsp;now and earn more every time you stay with us.</spa=
+n><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</sp=
+an><o:p></o:p></p>
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&q=
+uot;;mso-ligatures:none"><img border=3D"0" width=3D"618" height=3D"127" id=
+=3D"_x0000_i1029" src=3D"cid:image002.jpg@01DCE61D.97A252F0"></span><o:p></=
+o:p></p>
+<p class=3D"MsoNormal"><u><span style=3D"font-size:10.0pt;font-family:&quot=
+;Verdana&quot;,&quot;sans-serif&quot;;color:blue"><a href=3D"https://urldef=
+ense.com/v3/__http://delivery.lemontreehotels.com/YBRWGI?id=3D85290=3DcR5VV=
+FsCCw0CTFAEDwcDBVdcBlsAUVxdBQUEAQEAAgcEV1NcAA9fAgMDBlICA1FQBVYeAlELSxYWF3EO=
+VVoJXEYQAAELWE1RXkNNVVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBMNFhtWVQ9fQAdHSkgIBw5=
+aCkxKAwFZDURSCkEcAQoJTG57ZmV3KglfBklFVQ=3D=3D&amp;fl=3DWhYRFBANFhtFRxQYWgdY=
+XAgQEAZQDFdMAwhCTFNYCx1GBxcJTlRWWlZZF19ZDBtSFRQa__;!!O-q2QRjLdiIXwrWtmg!5v3=
+oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEU=
+pwaX37p0IlorvKEgzoZQboGei9ACkt$">Terms
+ &amp; Conditions</a></span></u><b><span style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;and
+</span></b><u><span style=3D"font-size:10.0pt;font-family:&quot;Verdana&quo=
+t;,&quot;sans-serif&quot;;color:blue"><a href=3D"https://urldefense.com/v3/=
+__http://delivery.lemontreehotels.com/YBRWGI?id=3D85290=3DcR5VVFsCCw0CTFtVB=
+AEHBVICAQFUV1tbU1JVVAcGUQsABwEAVFUBDFEIAgcDWwwCVwUeAlELSxYWF3EOVVoJXEYQAAEL=
+WE1RXkNNVVkPSQJQXVRUBVALDlBdAlAEAFMCTgoREBMNFhtWVQ9fQAdHSkgIBw5aCkxKAwFZDUR=
+SCkEcAQoJTG57ZmV3KglfBklFVQ=3D=3D&amp;fl=3DWhYRFBANFhtFRxQYWgdYXAgQEAZQDFdM=
+AwhCTFNYCx1CEAwSAlRAGUJfD19VGxtSFRQa__;!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7L=
+bZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0Ilor=
+vKEgzoZQboGaBrbA-5$">Privacy
+ Policy</a></span></u><b><span style=3D"font-size:10.0pt;font-family:&quot;=
+Verdana&quot;,&quot;sans-serif&quot;"><br>
+<br>
+<i>DISCLAIMER:</i></span></b><i><span style=3D"font-size:10.0pt;font-family=
+:&quot;Verdana&quot;,&quot;sans-serif&quot;"><br>
+This communication is confidential and may be legally privileged. If you ar=
+e not the intended recipient; (i) please do not read or disclose to others,=
+ (ii) please notify the sender by reply mail, and (iii) please delete this =
+communication from your system.
+ Failure to follow this process may be unlawful. Thank you for your coopera=
+tion.</span></i><span style=3D"font-family:&quot;Verdana&quot;,&quot;sans-s=
+erif&quot;;color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-language:KO">Warm =
+Regards,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-family:&quot;V=
+erdana&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-language:KO"><o=
+:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-family:&quot;V=
+erdana&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-language:KO">Ma=
+noj Panda<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-family:&quot;V=
+erdana&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-language:KO">Re=
+servations Executive</span></b><b><span lang=3D"EN-US" style=3D"font-size:1=
+1.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black;ms=
+o-fareast-language:KO"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-language:KO"><o:p>=
+&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-family:&quot;V=
+erdana&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-language:KO">Ke=
+ys Prima Hotel - Whitefield, Bengaluru</span></b><span lang=3D"EN-US" style=
+=3D"font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black;mso-=
+fareast-language:KO"><br>
+Plot No 6,1<sup>st</sup> Phase Industrial Area, I T P L Road, Bengaluru -56=
+0 048<br>
+<b>T</b> +91 80 67420300 |<b> M </b>+91 &nbsp;8310157164<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-l=
+anguage:KO"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Verdana&quot;,&quot=
+;sans-serif&quot;;color:black;mso-fareast-language:KO">For further informat=
+ion, visit
+<a href=3D"https://urldefense.com/v3/__http://www.lemontreehotels.com/__;!!=
+O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2G=
+wJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEgzoZQboGQSYmZyW$">
+<span style=3D"color:#0563C1">www.lemontreehotels.com</span></a> or call +9=
+1 9911 701 701</span><span style=3D"font-size:11.0pt;font-family:&quot;Verd=
+ana&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-language:KO"><o:p>=
+</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black;mso-ligatures:none"><img =
+border=3D"0" width=3D"598" height=3D"309" id=3D"_x0000_i1028" src=3D"cid:im=
+age003.jpg@01DCE61D.97A252F0"></span><span style=3D"font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;;color:black;mso-fareast-language:KO"><o:p><=
+/o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p=
+>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;fo=
+nt-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-ligatures:none">Fro=
+m:</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&qu=
+ot;Tahoma&quot;,&quot;sans-serif&quot;;mso-ligatures:none"> Travels.India [=
+mailto:Travels.India@sutherlandglobal.com]
+<br>
+<b>Sent:</b> 17 May 2026 16:11<br>
+<b>To:</b> reservations@lemontreehotels.com; reservationswf.keys@lemontreeh=
+otels.com; 'Prabakaran C'; 'Rahul Zetshi'; 'Vignesh C'; fowf2.keys@lemontre=
+ehotels.com<br>
+<b>Cc:</b> Santosh Peter Antony Mathias<br>
+<b>Subject:</b> RE: Room Reservation - HFD9 for Palin Jebamalar - Urgent<o:=
+p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US">Hi Team,</span><span lang=3D"EN-US" style=3D"font-family:Apt=
+os"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US">Following up on the below email, the guest will check in tom=
+orrow morning at 6:00 AM. Kindly reserve the booking accordingly and share =
+the confirmation with us.</span><span lang=3D"EN-US" style=3D"font-family:A=
+ptos"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:105%">
+<span lang=3D"EN-US"><a href=3D"http://www.sutherlandglobal.com/"><span sty=
+le=3D"font-size:11.0pt;line-height:105%;color:#002060;mso-ligatures:none;te=
+xt-decoration:none"><img border=3D"0" width=3D"42" height=3D"42" id=3D"Pict=
+ure_x0020_504804252" src=3D"cid:image004.png@01DCE61D.97A252F0" alt=3D"sign=
+ature_4191257372"></span></a></span><b><span lang=3D"EN-US" style=3D"font-s=
+ize:10.0pt;line-height:105%;font-family:&quot;Arial&quot;,&quot;sans-serif&=
+quot;;color:#002060;letter-spacing:-.25pt">Regards,</span></b><span lang=3D=
+"EN-US" style=3D"font-family:Aptos"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:105%">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;line-height:105%;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#002060;letter-spacing:-=
+.25pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gayathri P
+</span></b><span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p></o:p></sp=
+an></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:105%">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;line-height:105%;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#002060;letter-spacing:-=
+.25pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Travels India
+</span></b><span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p></o:p></sp=
+an></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:115%">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;line-height:115%;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#002060">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gateway Office Parks<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Building No B-2 Bloc=
+k, 2<sup>nd</sup> Floor ,</span></b><span lang=3D"EN-US" style=3D"font-fami=
+ly:Aptos"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:115%">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;line-height:115%;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#002060">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;No: 16, GST Road, Perungalathur,</s=
+pan></b><span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p></o:p></span>=
+</p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><b><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&=
+quot;sans-serif&quot;;color:#002060">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; &nbsp;Chennai-600063<o:p></o:p></span></b></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><b><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&=
+quot;sans-serif&quot;;color:#002060">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; &nbsp;Emergency Number 8754545233</span></b><span lang=3D"EN-US"=
+ style=3D"font-family:Aptos"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><b><sp=
+an lang=3D"EN-US" style=3D"font-size:11.0pt;mso-ligatures:none">From:</span=
+></b><span lang=3D"EN-US" style=3D"font-size:11.0pt;mso-ligatures:none"> Tr=
+avels.India &lt;Travels.India@sutherlandglobal.com&gt;
+<br>
+<b>Sent:</b> Saturday, May 16, 2026 7:45 PM<br>
+<b>To:</b> reservations@lemontreehotels.com; reservationswf.keys@lemontreeh=
+otels.com; 'Prabakaran C' &lt;sales1.cn@lemontreehotels.com&gt;; 'Rahul Zet=
+shi' &lt;hos.south@lemontreehotels.com&gt;; 'Vignesh C' &lt;sales4.cn@lemon=
+treehotels.com&gt;; fowf2.keys@lemontreehotels.com<br>
+<b>Cc:</b> Santosh Peter Antony Mathias &lt;SANTOSHPETERANTONY.MATHIAS@suth=
+erlandglobal.com&gt;<br>
+<b>Subject:</b> Room Reservation - HFD9 for Palin Jebamalar - Urgent<o:p></=
+o:p></span></p>
+</div>
+</div>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"mso-margin-top-alt:0cm;margin-right:0cm;=
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt">
+<span lang=3D"EN-US">Hi Team, </span><span lang=3D"EN-US" style=3D"font-fam=
+ily:Aptos"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"mso-margin-top-alt:0cm;margin-right:0cm;=
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt">
+<span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></=
+p>
+<p class=3D"wordsection1" style=3D"mso-margin-top-alt:0cm;margin-right:0cm;=
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt">
+<span lang=3D"EN-US">Please reserve a room under the Sutherland Corporate r=
+ate and share us the confirmation voucher.
+</span><span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p></o:p></span><=
+/p>
+<p class=3D"wordsection1" style=3D"mso-margin-top-alt:0cm;margin-right:0cm;=
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt">
+<span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></=
+p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"676" style=3D"width:507.0pt;margin-left:36.0pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" nowrap=3D"" valign=3D"bottom" style=3D"width:200.0pt;padd=
+ing:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">&nbsp;<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;padding=
+:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Hotel Near<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Keys select by lemon tree, Whitefield<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">No. of rooms<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">1<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:20.15pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:20.15pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Name of Guests<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:20.15pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;mso-ligatures:none">=
+Palin Jebamalar<span style=3D"color:black"><o:p></o:p></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Contact details<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><u><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;;color:#0563C1;mso-ligatures:none"><a =
+href=3D"mailto:Travels.India@sutherlandglobal.com"><span style=3D"color:#05=
+63C1">Travels.India@sutherlandglobal.com</span></a><o:p></o:p></span></u></=
+p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black;mso-l=
+igatures:none">Check-in date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">17-May<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Arrival details<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">TBA<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black;mso-l=
+igatures:none">Check-out date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">31-May<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Departure Details<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">TBA<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Room type<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Standard<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Occupancy<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Single<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:18.0pt">
+<td width=3D"267" rowspan=3D"2" style=3D"width:200.0pt;border:solid #CC9966=
+ 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:18.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Mode of payments<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border:none;border-right:solid #CC=
+9966 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:18.0pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black;mso-l=
+igatures:none">BILL TO COMPANY
+</span></b><b><span style=3D"font-size:11.0pt;font-family:Wingdings;color:b=
+lack;mso-ligatures:none">=A8=A4</span></b><b><span style=3D"font-size:11.0p=
+t;color:black;mso-ligatures:none"> Room +Taxes -BILL TO COMPANY<o:p></o:p><=
+/span></b></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">All Incidental /extra=A1=AFs will be directly from Guest<o:p></=
+o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.5pt">
+<td width=3D"267" rowspan=3D"5" style=3D"width:200.0pt;border:solid #CC9966=
+ 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Billing Details (Instructions)
+<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border:none;border-right:solid #CC=
+9966 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">TAR =A8C
+</span><span style=3D"font-size:11.0pt;mso-ligatures:none">HFD9<span style=
+=3D"color:black"><o:p></o:p></span></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.5pt">
+<td width=3D"409" style=3D"width:307.0pt;border:none;border-right:solid #CC=
+9966 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">EM ID :
+</span><b><span style=3D"font-size:8.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;;color:black">681396</span></b><span style=3D"font-size:=
+11.0pt;color:black;mso-ligatures:none"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.5pt">
+<td width=3D"409" style=3D"width:307.0pt;border:none;border-right:solid #CC=
+9966 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">&nbsp;Level =A8C L4<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:14.5pt">
+<td width=3D"409" style=3D"width:307.0pt;border:none;border-right:solid #CC=
+9966 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.5pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Job Code:
+</span><b><span style=3D"font-size:8.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;;color:black">12679</span></b><span style=3D"font-size:1=
+1.0pt;color:black;mso-ligatures:none"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;color:black;mso-l=
+igatures:none">Employee Base Location</span></b><span style=3D"font-size:11=
+.0pt;color:black;mso-ligatures:none">
+<b>- </b></span><b><span style=3D"font-size:8.0pt;font-family:&quot;Tahoma&=
+quot;,&quot;sans-serif&quot;;color:black">IND22</span></b><b><span style=3D=
+"font-size:11.0pt;color:black;mso-ligatures:none"><o:p></o:p></span></b></p=
+>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Inclusions<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">As per the contract<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"267" style=3D"width:200.0pt;border:solid #CC9966 1.0pt;border-=
+top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">Remarks, If any<o:p></o:p></span></p>
+</td>
+<td width=3D"409" style=3D"width:307.0pt;border-top:none;border-left:none;b=
+order-bottom:solid #CC9966 1.0pt;border-right:solid #CC9966 1.0pt;padding:0=
+cm 5.4pt 0cm 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;color:black;mso-liga=
+tures:none">King size bed<o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"wordsection1" style=3D"mso-margin-top-alt:0cm;margin-right:0cm;=
+margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt">
+<span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></=
+p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:105%">
+<span lang=3D"EN-US"><a href=3D"http://www.sutherlandglobal.com/"><span sty=
+le=3D"font-size:11.0pt;line-height:105%;color:#002060;mso-ligatures:none;te=
+xt-decoration:none"><img border=3D"0" width=3D"42" height=3D"42" id=3D"Pict=
+ure_x0020_1" src=3D"cid:image004.png@01DCE61D.97A252F0" alt=3D"signature_41=
+91257372"></span></a></span><b><span lang=3D"EN-US" style=3D"font-size:10.0=
+pt;line-height:105%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;co=
+lor:#002060;letter-spacing:-.25pt">Regards,</span></b><span lang=3D"EN-US" =
+style=3D"font-family:Aptos"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:105%">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;line-height:105%;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#002060;letter-spacing:-=
+.25pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gayathri P
+</span></b><span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p></o:p></sp=
+an></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:105%">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;line-height:105%;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#002060;letter-spacing:-=
+.25pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Travels India
+</span></b><span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p></o:p></sp=
+an></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:115%">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;line-height:115%;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#002060">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gateway Office Parks<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Building No B-2 Bloc=
+k, 2<sup>nd</sup> Floor ,</span></b><span lang=3D"EN-US" style=3D"font-fami=
+ly:Aptos"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt;line-he=
+ight:115%">
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;line-height:115%;font-fam=
+ily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#002060">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;No: 16, GST Road, Perungalathur,</s=
+pan></b><span lang=3D"EN-US" style=3D"font-family:Aptos"><o:p></o:p></span>=
+</p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><b><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&=
+quot;sans-serif&quot;;color:#002060">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; &nbsp;Chennai-600063<o:p></o:p></span></b></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><b><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&=
+quot;sans-serif&quot;;color:#002060">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; &nbsp;Emergency Number 8754545233</span></b><span lang=3D"EN-US"=
+ style=3D"font-family:Aptos"><o:p></o:p></span></p>
+<p class=3D"wordsection1" style=3D"margin:0cm;margin-bottom:.0001pt"><span =
+lang=3D"EN-US" style=3D"font-family:Aptos"><o:p>&nbsp;</o:p></span></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span=
+ lang=3D"EN-US" style=3D"font-family:&quot;Times New Roman&quot;,&quot;seri=
+f&quot;;mso-ligatures:none">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</span></div>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Time=
+s New Roman&quot;,&quot;serif&quot;;mso-ligatures:none">This email message =
+is for the sole use of the intended recipient(s) and may contain informatio=
+n that is confidential, privileged, proprietary and protected
+ from disclosure by applicable law. Any unauthorized review, use, duplicati=
+on, disclosure or distribution is strictly prohibited. If you are not the i=
+ntended recipient, please contact the sender by reply email and immediately=
+ destroy all copies of this message,
+ including electronic and hard copies. Thank you for your cooperation.<o:p>=
+</o:p></span></p>
+</div>
+<p><b>DISCLAIMER:</b></p>
+<p>This email, including any attachments, is intended solely for the use of=
+ the individual or entity to whom it is intended to be addressed and may co=
+ntain confidential, privileged information that may constitute Unpublished =
+Price Sensitive Information (UPSI).
+ Any unauthorised review, retransmission, dissemination or disclosure is pr=
+ohibited and/or may be unlawful. If you are not the intended recipient, ple=
+ase notify the sender immediately, and delete this message from your system=
+. Unauthorised use, disclosure,
+ distribution, or copying of this email or its contents is strictly prohibi=
+ted. </p>
+<p>The company (=A1=AELemon Tree Hotels=A1=AF) makes no representations or =
+warranties regarding the completeness or accuracy of the information contai=
+ned in this email, nor does it accept any liability for any errors, omissio=
+ns, or potential damage caused by viruses
+ or other harmful content transmitted via email. </p>
+<p>Any views or opinions expressed in this email are those of the author an=
+d do not necessarily represent the views of the Lemon Tree Hotels unless ot=
+herwise stated. Further this email is subject to terms at:
+<a href=3D"https://urldefense.com/v3/__http://www.lemontreehotels.com/priva=
+cy-policy.aspx*emaildisclaimer__;Iw!!O-q2QRjLdiIXwrWtmg!5v3oAKVhddlrJ7LbZnw=
+5uVzC5ZBtNSHAHVOj1TTL8AOpIdx9NnXOvZ2GwJ45JAsjSRHuQ02YICYZEUpwaX37p0IlorvKEg=
+zoZQboGT3pXIgd$">
+www.lemontreehotels.com/privacy-policy.aspx#emaildisclaimer</a>. </p>
+<p>Please consider the environment before printing this email.</p>
+</body>
+</html>
+
+--_000_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_--
+
+--_006_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_
+Content-Type: image/jpeg; name="image002.jpg"
+Content-Description: image002.jpg
+Content-Disposition: inline; filename="image002.jpg"; size=18583;
+	creation-date="Sun, 17 May 2026 11:35:48 GMT";
+	modification-date="Sun, 17 May 2026 12:42:26 GMT"
+Content-ID: <image002.jpg@01DCE61D.97A252F0>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAB/AmoDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gAqG4vLW0Cm5uYoA3TzHC5/Opq84+KVhb6prvhOwvE3wXF6ySKDjIIHegDuv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT/gr/AKBsn/f9/wDGj/hT3gr/AKBsn/f9/wDGgDqv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT3gr/AKBsn/f9/wDGj/hT3gr/AKBsn/f9/wDGgDqv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT3gr/AKBsn/f9/wDGj/hT3gr/AKBsn/f9/wDGgDqv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT3gr/AKBsn/f9/wDGj/hT3gr/AKBsn/f9/wDGgDqv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT3gr/AKBsn/f9/wDGj/hT3gr/AKBsn/f9/wDGgDqv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT3gr/AKBsn/f9/wDGj/hT3gr/AKBsn/f9/wDGgDqv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT3gr/AKBsn/f9/wDGj/hT3gr/AKBsn/f9/wDGgDqv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT3gr/AKBsn/f9/wDGj/hT3gr/AKBsn/f9/wDGgDqv7Z0r/oJ2f/f9f8aP
+7Z0r/oJ2f/f9f8a5X/hT3gr/AKBsn/f9/wDGk/4U/wCCv+gbJ/3/AH/xoA6v+2dK/wCgnZ/9/wBf
+8aP7Z0r/AKCdn/3/AF/xrlP+FQeCc/8AINk/7/v/AI0f8Kg8E/8AQOf/AL/v/jQB1f8AbOlf9BOz
+/wC/6/40f2zpX/QTs/8Av+v+Ncp/wqDwSP8AmHP/AN/3/wAaP+FQeCf+gdJ/3/f/ABoA6v8AtnSv
++gnZ/wDf9f8AGj+2dK/6Cdn/AN/1/wAa5T/hUHgr/oGyf9/3/wAaP+FQeCf+gbJ/3/f/ABoA6v8A
+tnSv+gnZ/wDf9f8AGj+2dK/6Cdn/AN/1/wAa5QfCDwSf+YbJ/wB/3/xo/wCFP+Cv+gbJ/wB/3/xo
+A6v+2dK/6Cdn/wB/1/xo/tnSv+gnZ/8Af9f8a5P/AIVD4J/6B0n/AH/f/Gj/AIVD4J/6Bz/9/wB/
+8aAOs/tnSv8AoJ2f/f8AX/Gj+2dK/wCgnZ/9/wBf8a5T/hUHgr/oGyf9/wB/8aT/AIVB4J/6B0n/
+AH/f/GgDrP7Z0r/oJ2f/AH/X/Gj+2dK/6Cdn/wB/1/xrlP8AhUHgn/oHSf8Af9/8aP8AhUHgn/oH
+Sf8Af9/8aAOr/tnSv+gnZ/8Af9f8aP7Z0r/oJ2f/AH/X/GuU/wCFQeCf+gc//f8Af/Gj/hUHgr/o
+Gyf9/wB/8aAOr/tnSv8AoJ2f/f8AX/Gj+2dK/wCgnZ/9/wBf8a5P/hUHgn/oHSf9/wB/8aX/AIVB
+4J/6Bz/9/wB/8aAOr/tnSv8AoJ2f/f8AX/Gj+2dK/wCgnZ/9/wBf8a5P/hUPgn/oHP8A9/3/AMaP
++FQ+Cev9nSf9/wB/8aAOs/tnSv8AoJ2f/f8AX/Gj+2dK/wCgnZ/9/wBf8a5P/hUPgk/8w6T/AL/v
+/jS/8Kg8E/8AQNk/7/v/AI0AdX/bOlf9BOz/AO/6/wCNH9s6V/0E7P8A7/r/AI1yn/Cn/BX/AEDZ
+P+/7/wCNH/Cn/BX/AEDZP+/7/wCNAHV/2zpX/QTs/wDv+v8AjR/bOlf9BOz/AO/6/wCNcn/wqHwT
+/wBA6T/v+/8AjS/8Kg8E/wDQNk/7/v8A40AdX/bOlf8AQTs/+/6/40f2zpX/AEE7P/v+v+Ncp/wq
+DwT/ANA2T/v+/wDjR/wqDwT/ANA2T/v+/wDjQB1f9s6V/wBBOz/7/r/jR/bOlf8AQTs/+/6/41yn
+/CoPBX/QNk/7/v8A40f8Kg8E/wDQNk/7/v8A40AdX/bOlf8AQTs/+/6/40f2zpX/AEE7P/v+v+Nc
+p/wqDwT/ANA6T/v+/wDjR/wqDwV/0DZP+/7/AONAHV/2zpX/AEE7P/v+v+NH9s6V/wBBOz/7/r/j
+XKf8Kg8E/wDQNk/7/v8A40D4QeCj/wAw2T/v+/8AjQB1f9s6V/0E7P8A7/r/AI0f2zpX/QTs/wDv
++v8AjXK/8Ke8Ff8AQNk/7/v/AI0f8Ke8Ff8AQNk/7/v/AI0AdV/bOlf9BOz/AO/6/wCNH9s6V/0E
+7P8A7/r/AI1yv/CnvBX/AEDZP+/7/wCNH/CnvBX/AEDZP+/7/wCNAHVf2zpX/QTs/wDv+v8AjR/b
+Olf9BOz/AO/6/wCNcr/wp7wV/wBA2T/v+/8AjR/wp7wV/wBA2T/v+/8AjQB1X9s6V/0E7P8A7/r/
+AI0f2zpX/QTs/wDv+v8AjXK/8Ke8Ff8AQNk/7/v/AI0f8Ke8Ff8AQNk/7/v/AI0AdV/bOlf9BOz/
+AO/6/wCNH9s6V/0E7P8A7/r/AI1yv/CnvBX/AEDZP+/7/wCNH/CnvBX/AEDZP+/7/wCNAHVf2zpX
+/QTs/wDv+v8AjR/bOlf9BOz/AO/6/wCNcr/wp7wV/wBA2T/v+/8AjR/wp7wV/wBA2T/v+/8AjQB1
+X9s6V/0E7P8A7/r/AI0f2zpX/QTs/wDv+v8AjXK/8Ke8Ff8AQNk/7/v/AI0f8Ke8Ff8AQNk/7/v/
+AI0AdV/bOlf9BOz/AO/6/wCNH9s6V/0E7P8A7/r/AI1yv/CnvBX/AEDZP+/7/wCNH/CnvBX/AEDZ
+P+/7/wCNAHVf2zpX/QTs/wDv+v8AjR/bOlf9BOz/AO/6/wCNcr/wp7wV/wBA2T/v+/8AjSf8Kf8A
+BX/QNk/7/v8A40Adjb31pdlhbXUM5X7wjkDY+uKnrzL4eaVZ6J8RfFWm2EZjtoEhCKTnGRnqfrXp
+tABRRRQAUUUUAFcD8Qv+Rs8Gf9hE/wAhXfVwPxC/5GzwZ/2ET/IUAd9RRRQAUUUUAFFFFABRRRQA
+UUUUAFFFFABRSUZoAWikozQAtIaKKAOD8V+Om8LeMIbW7kjGmnT3nZNg3ySAkKqn34rb8KSa9e6M
+L3XXijuLo+ZHbxx48hD91Sf4jjBrM8Q+Bz4i8ZQaheJBJpq2EltIrE+YHbOGUYxxnrmr/gzS9d0P
+R20zV5oLoWrbLWZJCWePsHBHBHHrS6Ayh4Q1fWtU8Sa7ZX+oJNBpU4hRVt1QyZB5JH07VmeMPHmq
+eGPHFpZrGk2krAs12BHl0UsVLZ7YJFa/hPQtZ0jxFrd/f29qsGrTCYeVcF2iwDwQUGevWnah4Rl1
+PxxJql0IX0yfS2spIyx3kls5xjGPfNPsHcl8JeILrXNS16KaWKW3srwR2zRrjMZXIye9ZdvrPiTV
+/E/iTTbLUYLZdJ2fZka2DhyVzhjnPX0qx8OfBt74Ot9TtrqaKaOe5DQMjEnYBgbsjg9OKjh8PeIt
+K8SeItTsYbCZdW2+S0twymLC4yyhTn6A0egG14N8R/8ACU+HodSaHyJSzRzRA5COpwcH0rdJ6Vi+
+EfDkfhbQINMWczupZ5ZSMb3Y5Jx2FaWpJdPptwliUF00TCEucKGI4JNDBHntj4/1S4+IQspFi/sG
+e8ksreQJ8xlRR/F9f511/iyfUbLQbzUtOvhbPZ28kxRoVkEhUZAOenTtXHv8ML+HwfY2trqDf2va
+XC3QDzn7P5u7LEfLnp3rt9dsLnVfDN9YJ5aXN1avEMk7AzLjrjpn2pPYOpS8F3Wqar4es9W1G/Wd
+ryBZPKWBUEZPoRyfxrGv9S8Q2/xAsPDqaynkXlq9wZTZpuQqWwB+VdJ4U0u40Twvp2mXRQz21usb
+mM5UkehrOv8Aw7e3HxG0zxCjQi0tbN4XUsd5Zt2MDHTkd6b3F0G+P9c1Dwz4SF/ZTx/aRNFG0kkY
+IwTgnFXvD939sMrDxBDquFGVjiRfLPvtqt4+8P3vibw2dO09oVn+0RyAzMVXCnJ5ANaunTanJ8l/
+YQWyqo2tFcmXcff5FxQNnCyfEHUdP+JV1pF+Iv7GSVbcTBMGGRlym5vQnIrpPA2tX3iLw017eyx/
+aDcTRBo0AACsQOKy7nwBLqeoeKTftD9m1hYvszISXjdF4YjHHPpmtT4feHr7wv4Vh0vUJIZLhJZH
+ZomLKdxyOSBSW2u4PcyYdS8RSfEOfw0daQQxWIuhMLNNxJYDb6Y5rS+IWran4e8KT6vpt0kc1sVy
+rxBxJlgvOenXPFLF4dvo/iXceI2aH7HJp4tgu4+Zu3A5xjGOPWn+P9E1HxJ4Xn0fTUg8y4Zd0k8p
+QIFYHspznHtR2BbmhHeyaf4ZOpahcG4MNsbiR1QJn5d2ABx7Vx7eKvEkXguPxnJJbPbuwlbThFgL
+CWwMSdd3Q+ldlFYSXvhz+zNShSIyW5glWKTeMY25BwO3tXJnwb4gl8JReDnnsxYJIEa+DnzGgDbg
+vl4wG7Z3U+oI2/FWvT6d4Eude0xkEgt0miLruGGx2/GuU074i6pe2mhwSeTb6jJqiWeoxNHyUIyG
+UdsjvXYeKvD0uq+CbrQdN8pHeBYYfNJCgDGMkA9hXOap8Obi48UeH9cs5II5LPyRfIWIEnl4wy8c
+nGRzjoKFvrsLoeiL0rlPiDruoeH9EtrjTZEjmmvI4Czx7wFYnOBXVr0rl/Hvhy78UaPbWNm0SvHd
+xzP5rlQVU84IGc0hor6NruqDx5f+GL+ZL2OG1W5juViEbJnA2sBx3zU1jr1/cfEjUtBkaM2VtZxz
+RgJhtxxnJrZ0zQ9N0cytYWaQvOd0rglmc+7HJNc8dD1qy8f3/iGztrS6t7q1SBY3uTEwK9T9w0+q
+F0LfxB1y+8OeELnU9PaNbmN0AMibhgsAeKn8OX327c//AAkUOpnygWijiRfLJ7/LzUHjbQtR8U+D
+pdNt1ggvJjGxWSQlFwwJG4Dn8q09JfVBGsGoWEFukUYVXiujKWIwOhRcUl1A4/4i+NNa0DULez0J
+YpHitnvLzzI922IEAfTvXV3euJB4Uk161ia5VbT7Ska/x/LkCsAeBbrUPEevapq17JGt+gt7dLSY
+jEAGCr5Hfjir3hfRtd0PwSukyS2jahaq6W0m5mjIySu7gHvii2hXW5k+EfFlx4kWxuI/EmnyXEjF
+rrTDAEZFxyEOdx25HPIODVnxX4lvdN8YaTpMepwadZXcEjzTyRKxUr0wTxzUR8E3GpeJ9K1e40zT
+dIOnN5krWUhZrhuy/dUBc565NXte8P6tceNdJ8QafHbTx2EMiPFLMY2Yt6EKafVE9zc02VpdJ81d
+STUCQxW4RFAb8F4rH+HWu6h4j8LJqOpPG1w08iZjTaMKcDit+1e7mtCbu2jgmbI2JN5i+3zYH8qy
+/BmizaBoEen3Fvb27rK7bLeVpFwTnqwzmgZ0FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAefeEv+Ss+MP92D+Veg1594S/5Kz4w/3YP5V6DQAUUUUAFFFFABXA/EL/AJGzwZ/2ET/I
+V31cD8Qv+Rs8Gf8AYRP8hQB31FFJzQAtFIKKAFooooAKKKKACiikNAC0UnNHNAFe+S8eDbYyxRTZ
+HzSoXXHfgEVn/ZvEf/QR0/8A8BG/+LrY60UAY/2bxH/0EdP/APARv/i6Ps3iP/oI6f8A+Ajf/F1s
+UYoAxvJ8Tjhb7SmHq1pJn9JKPL8U/wDP5pH/AICy/wDxytmloAxfK8Uf8/mkf+Asv/xyjyvFHU3e
+kH/t1lH/ALUrapKAMcL4mP8Ay00r/viT/GjZ4m/56aT/AN+5f8a2MUUAY+zxN/z00n/v3L/jSf8A
+FSqeV0p/p5i4/nWzQRQBj7vEo/5Y6X/38k/woL+JT/yx0v8A7+Sf4Vr0tAGNu8S/88dL/wC/kn+F
+L53iT/oH6d/4FP8A/EVr0tAGP5/iT/oH6d/4FP8A/EUed4k/6B+nf+BT/wDxFbNFAGN9o8RLydL0
+5/YXrL+vlmj7X4i/6A1h/wCDFv8A41WxiigDH+1+Iv8AoC2H/gxb/wCNUfa/EX/QFsP/AAYt/wDG
+q2KKAMcXuvAYOh2xPqt/kf8AoApftuvf9AKD/wAD/wD7CteigDI+269/0A4P/A//AOwoF9rq8nQo
+iO+2+BP6qK16KAMg6lrJ/wCZfP8A4FpSf2jrP/Qvt/4FpWxRQBkDUtZH/Mvn/wAC0o/tTVhw3h6c
+n/YuYiP1IrXooAyP7V1T/oXbr/wIh/8AiqP7U1Q/8y7df+BEP/xVa1KKAMf+1dUH/Mu3X/gRD/8A
+FUf2zqH/AELWpf8Afy3/APjlbGKMUAY/9sX/AP0LWpf9/Lf/AOOUf2xf/wDQtal/38t//jlbFFAG
+P/bV4uN/hzU19Pmgb+UlH9t3H/QA1P8A75j/APi62DSUAZH9t3P/AEAdT/KP/wCLo/tu5Bz/AGBq
+f5R//F1sUUAZH9vuPvaLqgPceQD/ACNH/CQN/wBAbVP/AAH/APr1r0tAGP8A8JA3/QG1T/wH/wDr
+1La6y11cLCdMv4d2fnlh2qPxzWlRigBaKSigBaKKKACikOaBQAtFFFABRRRQAUUlFAC0UUUAefeE
+v+Ss+MP92D+Veg1594S/5Kz4w/3YP5V6DQAUUUUAFFFFABXA/EL/AJGzwZ/2ET/IV31cB8Qv+Rs8
+Gf8AYQP8hQB3c7OkEjxqrOqkqGOAT7muc0rxc9/dWdtPps0Ul3aLchod0qJuYgAttGOnU/SuinV3
+hkWNlVypCsy5APuO9YGk+HLzSmsJFv4pHtrUWs2bcgSIG3Db83yt78/SgHsaOo6vBpksP2q4SGNk
+kdgyEkqgBJBHAxn3zU2n6jHqUTyRxXEWxtrJcQtEwOAejD3qpq+jtqk8EyzJG0EcqBZIt6tvAHIz
+yBjp39qPD+jNotrNE0ySebJvCRIUjj4AwqlmIHGevU0dAZDJ4osre4e3kea4mEsirHbWrs2E27uB
+nONw5pF8ZaOYJLgzTLAkRmWVoHCyoCAShx82CRnFLa+HPsury6h9qL+Y052bMY8woeue2z9ay9a8
+MXKeG4YbWU3E9jZNbxqI+ZSxTnGeMbenvQM2f+En0/7PJKxuEaORYzA0DiUs33QExk55x9D6Ui+K
+NNeS3iia4lluVZkjS3dmAVgrbhj5cE85qq/hy6mmN/NqMZ1Pzo5Y5UgIiUIGULsLZIIds/N37VPp
+fh9tP1BL57rzZTHKJcR7Q7yOHLDngDGMc/WjqIbpnimPUNKa/On36BXKFFtncn5iMrgfMOOcdKWT
+xfpUaowe4k3Qmc+XbOxjQMVJcAfLggg56Yqq/he6bTP7PXUIWtkuGljjkt2wysWJWTDgty2QRjpz
+mm6b4P8AsFlNb/bVbzbN7XKxbQu53bIGTwN+MZ7daANDS/EMeqajeWkdvcILWTYsxjPlyDapyGxj
+PzdPTmqer+K20651S1jspmlsrQXCStGxiJIY4YgcD5fXn8KuaRo0+k3ExS7SS2mClozFh94RVzuz
+jBCjjH41Dqvh+fULm9eG8SGO/tBbzq8Jc4G7aVO4YPzHOQc0DRPa+I7W6gmdIbsyQIrvD9mcSEN0
+ZVxlgcHkelVh4utpNRs7WG1vJRc+YGKwNuhZCoKuuMj73fpx60uo+HJL6WeRLzy2mghh2shKsEZi
+Q2GBIbdggEfWqumeEbjSpIbi2vbdJknldgLdvL2Sbcqo35B+QYOT9DT0EdDc30NpJbxzMUNzL5UZ
+xwWwTjPboaz5vFGmRRJIsk8ocvgQwM52ocM+APug9+lJ4qtJ7zQLiG1WQ3RKm3aMZaOTcNrfgeT7
+VBL4bkiW2/s28S1khtDaO0kPmB0PJIGRhsjOffoaQF46/pwguJvtBaO2aNZGVSR84BXHqDuHSrV3
+fQWKxvcOUWSRYlOCQGY4GfTnvXPTeEZtktpZ36wWUwg8xHg3yZi2gYbcByFGeDW7qlimp6bcWbtt
+85CFfGdjdVYfQ4P4UAV5/EVjBvAM8zrM0IjhhaR2ZRlsADkDPJ6Co/8AhJtOlmENvLLK5gE+6OBn
+VEYHDMQOB8p/KqFz4PjudP0+Fpo5bmyD5kuYiyzM/LsyqwOSeeDVvTvDo09LhFmQCe0jt9scWxU2
+huQMnA+bp7UAVf8AhKWOopECTaRWK3c862kjB1YEjaQfkAAzzk9u1a761ZILnbL5htoBcPtGflIJ
+Xn1OOlVdN0JdNl3PN56mxitCvl4yI93P47ulZOj+H7qLQ4bWZXP2q6D3HmthkgU/u4z9FVR+dGgG
+lH4otoClvqHmR3SxxtceXC5jg3/d3N0A7ZJqYeJtOK3cnmTCKzZklkMDbN4baUBxy2eMD1FZt1ot
+/qOvatG0wt9OuktxJmIl5gAchG3YHoeD1q6/h7dpFxY/airSXbXUcoX/AFb+Z5i8Z5APHvR0AsW2
+v2N08UavLHJNI0SxzRMjK6jcVYHodvIz1FQ/8JPp43zfaC0IiV1RYGLtudkGPXJXAAGe/eq1z4Yn
+vNPu1k1Ly9RuZ1n+1ww7REygKNqEn+EEcnvTrvwuJZ0mtbkW5hhgS3Ux7whiYlSRkZHzYxx9aAG2
+fiyOWO5kube4UpdtBBDHbOZnVUViSnXjP8vWtxL6CXT1vopPMgaPzFZQTlcZ6VzU3gx7rM91dW1x
+dm5kmBkt28nDqoI2hweNgwd1dHptmun6bb2a7MQxhPkTav4L2HtQBVfxHpiRec1z8hthdBgpP7sn
+A/EngDqaLXxBYXUkUKvLHNLKYhFLEyOrhdxDAjI+XnnrWLpPhhn0nUYpWmt3ubrda+YvzW8cb7ol
+x6Bstj/aq2fDl61wuo/2jD/aYuPOMv2Y+URsMe3Zuz93vu60AW4/E+mz3kVpA08s0mcLHAzYAcoS
+eOAGBGTVjVNSbT7eMrCZri4kEMEQbbuc56nsMAkn0FUND8OPpFz9pkvftDtC0bfu9uS0rSZ6/wC1
+ir+q6adRgi8ucwT28omglC7tjDI5HcEEgj0NDArnV7qxgeXWbWO2AZVi+zSmfzmPAUDaG3e2KSTx
+RpsdrDODcOZSwEMcDtKu37+5AMrjvnpkVnx+Epllnuzewx3jTxzxmGBhErpu5KFyTu3kHBHb0qVf
+DV1Ay3dpqSR6i3mmaZ7fckgkIJwm7jBVccnpzmgB2t+LbfT7J3sg13P5aSKY4meNVYjBdhwuRnGa
+0LTW7W9vWtYROxUsvm+QwiYqcMA+MEg8fgfSsifwfILSSxsNQWC2nhiinEkO9z5eAGU7gBkDng1a
+sfD8lrr8mqG5hAbflIITGZNxGPMO4hiMcYA9aAZpajqkemRLLNDdSIc5MEDSbcdzjoKot4r0oXBh
+EszgGMNMkLGNPMAKFnxgZ3DFM8ReH5Nd8oCeJURWUxTxNIhJ6MArL8w98jmoIPCRh0q4sPtxbzxb
+/P5fTygg6Z77PwzQgJ5vEyNrdlp1pHJIstw8MszQsIxtRiQr9CcjH507V/ED6fqcOnQx23myQmYv
+eXPkR4BxgHactnt6VDb+HLqG/tH/ALQQ2VncyXEUIgw+XDZBfdgjLnHAq3rGmXeoMghmsREFIaO8
+s/PGfUfMMHH1o6AJN4ht7RYVvkkimaNZJkiUyrACcZd1GAOvJ9DQfE+mh7kF59lpJ5U8vkN5aPkD
+buxj+IfhWPL4Dtytv5MkEnlWyW7/AGyAy5VScFcMuDyeDkdOK2rbRYorG/s5n82K+mlkYbcbQ/b8
+KAFn1y1ivVtvtKoySmOXdGSMiMuQG6DAGSTn0qNfE1i9s1wFuwm5VjBtXDTbumwYy2QCeO1U4vCI
+/s6ztbu+e4eF5XuZimGuDIjIT144b36Ul14Zu9R02G01C+t7g2ro1t/oxCjapX5xvy2QexWgC4/i
+jTljhZTcytIpYxxWzs8YU4YuoGVweDmp9c1C90vS5b60tYblYI2klSWYx/KBnghTk/XFY0/g5pbO
+2to57O3EJbLw2jKyMzZzGd+VP13c81v6nYnUdJurASmP7RC0XmYzjIxnHegCsur3Ntp6XWo2MgeT
+olir3OBjOThQR+VB8TaWNo+0kl0jkiAQkzK/C7B/Fzxx071BrWgSapBawrcRhIF2tHPGzxvwBuIV
+lORjjnHJ4qrb+E5raLTyupZm0yJI7RvJ+VeMPuGfm3DjqMDp60AaeuancaVYrc29slwxmjiKPKUG
+HYLnIU9yOKp33idLfUbWyt43ld7xbeeTym8qPIJYb+m4YHFXNc0241WwS2guY4GWaOUtJEXB2MGA
+wCO4FZ8nhm4lu1H9oRiyF6b0w+Qd5cg7hv3fdySRxmgZZPizSlgnneSeOKFPM3vA4Eibgu5Mj5hk
+jkeoqC58Y2sMtvHHaXsry3HkSRfZnEkXyFgduMkHHH4+lULfwJHbWsttHNbIjRCKOVLYiXAdW+di
+5B+6BwF9a0b3w5NPqsmpW14kVwZopY98RdV2oyEEBhnIY+mKARDceJpftVha2Z817u4lQyfZJGEa
+xnBUqDwecZzgdcVah8T2TQ2/7yS5kmUtm3tnIVdxXcw52jIxk+hpLHw8bS7tblrsObea5kKiPAbz
+TnHXjH61DYeHLvSTC1jqManyxHcGWDd5ih2YFcMNp+YjnNMRPqXie105bpXguvOgikkjV4GVZyi7
+iEbGDx6due1Nh8U2jR+fOZrdfs6ymCW2dZMs20Yz1yeAAMms+XwQ1zqb3VxfI6t5wLeU3nMJEZcF
+i+PlDcYUdBU7+Frq4KTXOoxG6ghijhkityqq0bl1YqWOeuCM/lSBlxvFWmhIcfankmZ0WBLZzKGT
+BYFMZBAIPPap7rW4o/Ds2tWo+0RJbtMik7N+B0z29OlVbLw9JBqUOpXF4JbkSSyTbItquXVVGBk7
+QAg7nNPTQNnhOTQvtOd8Lxeds6biecZ7ZoQdStF4wh+yWs9xbtAXaVLpC2TbNGhdhwPm4HHqCDV6
+78SabYELcSyBmSN1CxMxYO21cAdyeMVQ1PwhDqGpx3wu3gX7O8NxGi8TFoyiv7EBj65GB2pq+Fby
+W7iur3U45HhECoIrYoNsTlh1Y8nNNWAuQ+K9NnnWEfakYyiJzJbOoic42q5I+UnIxn1FQaL4tttQ
+sonvC1tK0byMzRssTBCQ21jwcd6mm8PeYLofasfaL+O8HyZ27Nny9e+zr71Rh8HSSWaWOoags1rD
+DNDCsUJjYCTgliWOSB06UgL58WaYtuZpDdRHzEjEcls6yMX+5hcZIOCAfUVfuNSittJl1KRZEjjh
+MpR1KNwM4IPQ1g2Xg77IY2MlojJcQzbra2KbxHu4bLnru7YA9Oa29Ysm1LRruyQ7XmiZVJ6Bu2fx
+xTAorq+pkWlolpBPqU0Hnyp5hiiiTPc4Y5zxwOx6VDeeJLyyuLayms7S3vJkeRvtN5sh2qcfK+0l
+ic5xgHHWnPp1zqsFrqMZNleNbG3nhuoS6OpPKsAQeDkggjr71FD4ZurXTIrOC6sZEVpHeO5sjLHl
+jn5AXyoA4AJPFICS41vXIruwt10qyLX27YWvmwpVdxziM5GBx6+1QX3irULGW+i/smOeS1mghRI7
+nmUyDPdeP6+1XbPw6llHo8cdwxXSg+0MvMm5SMewGeB6cVDL4bup9UuLuS+j8ua6guFjWAgr5XAB
+O7nI9qOoDpfEcl0rjSYklY2H2yN5M4b5sFCByDwR14NbNldLfWUF3GCEnjWRQe2RnFc/LobaPf6p
+rNi0s5ubcpHZImdkjNksp9CTkj6mtrSLM6fpNnZtjdBCqNt6ZA5/DNAHGeEv+Ss+MP8Adg/lXoNe
+feEv+Ss+MP8Adg/lXoNABRRRQAUUUUAFcD8Qv+Rs8Gf9hE/yFd9XA/EL/kbPBn/YRP8AIUAdfrN5
+LYaPe3kMXmSW8DyIpPBIGRmsoeKZktoTPpFwbg2/2meOOSM+VF/fzuwc84UZPBreureO7tZraZd0
+UyGNwDjIIwaxX8LRvCiHVL4SLCbd5QYw0kP9w/L0HqMHk80kBoXmqwWejSathpYI4fOGzqy4zxVH
+U/E9rpkssUkEjyRrER8yqpMhYKCzEBcbTknA6VoXOnW11pcmmyLtt3i8oqpwQuMDB+lZg8Lqpnlb
+Vr5551jRpXER+VM4G3Ztx8x7frTA1rG7a8sorloWhMi52Mytj8VJB+oNUtT1iTT7u2s4bCe9uLlH
+dEiZVACYzksQB94U3TtFOmTW0dvcOtjbQMiw5wXkZslmHT6Dtk1HrGkXmoazYT293LaRwwzLJLCU
+3/NtwMMD6HmgCKPxTFemRLKyuXiS2W4kuBtURqysR1PLDaRjFEHimF1h22t1LbhYVnu22ARPIAVD
+DPJ+Zc7RgZq3aeHrGxjuI7fzFS4t0t2BOcKoIGOOvzHrVePwpZxyIEublYV8oy2+5dkzRgBGbjOf
+lXoQDjmmBb0bWG1iN50sJ4LcMypJKy/vCrFTgA5xx1NZ83iSaz1fVYrqwb7Dp6o32hGUn5lyAVzk
+kngYH1rY0yxh0uxS0hZmRWZgXIzlmLH+dU73w9a313dSvPOqXkYjuIUK7ZMD5WzjII9jSBEumaod
+Qe4gmtZbO5t9vmQysrEBhlTlSQc4P5VFNr9vBdS2zQymeO5jgWMYy5kGVYe2N3/fJqfTdKXT3nla
+5nu7ifHmTz7dxCjCj5QBgc9u5qrJoxn8Xw6s6AR21qY1O/77s3cf7Izg/wC1QBA3i23CSTPZ3C2u
+yVoJ8ri4MYJYAZyPunGcZxUl/wCJ4LCaOL7JcTSSRwuiR7cnzG2qOT6jmhfClipZJJriW22yiK2Z
+hsh8zIfbgbu56k4zxTI/CVuJo57jUL26kjEQUysnAjbcowqgdTzQDNqB5ZrdJJoGgkYZaIsGKn0y
+ODXPv40tonuYprOUTQbT5UUscxcNIE42scEEjg4NdJKiyxNG2QHUqcHB5rnIfBNlEQWvLmTYiRoC
+sa7VV1cD5VGTlRknJoQFpdema/FgdKuVnWBZpj5kZWFSWHJzyfl6DPWobPxTbPYCQxXLSBICiuFD
+zCX7pGOM5yD9DWp/ZkP9oz325/NuIFhccYCqWII9/mNUofDFjBcaZOHmLaZD5MQL8OMYG8dyOSPT
+NIPQr6p4nWxvLjT2h8qcxyeRL50b5YRlxlAdwGAeo/nWtpU0lzpFnPM26WWBHc4xklQTWVN4Ospr
+5rlrq42mWSXywI+GdSpO7bvP3jgFuOPStSw01dPOI7md41hjiWKRsqgQYyBjqc8/QUwMzWtavdNu
+bmCGKF3a0EloGB+eXfsIb2+ZTx2zUC+LESCS7mRBbpDB8oYKxnk52bicAYI5PTnmte/0e11G+sLy
+YyCSwkMke1sBiRjDeo7/AFqmPCunpps9krSlbi5N1vZgWR85GMjGB2BB4pAWtG1mDW7N7iFdhjlM
+Uib1faw7blJB4IPBqlN4ssYLgwSRTK48/d0whj7E5/i7Vpabp4022MPnyTksWLyKin8kAH6VRvPC
+unXr3zzecGvpI5JNr4wY+m30BHB9c0+ouhja14mu4Wk+xSSwsiSl0lRDtItxIoH0JGffPbFbOvah
+c6f4Xl1CAn7QiRsCFBJJZQcD6E0l94VsL+5uJ5ZZ1e4LFgrDA3ReWccf3R+dXdR0uHUtIk02SWSO
+N1Vd8ZG8bSCDyMdvSjoPqZk/i2C0ilW7s5Le6jmWIW0ksY3FgWU7920DAPU9q1NI1SDWdPjvIBhW
+ZlK7lbaynBGQSDgjqDiqDeFbaaJzPd3M908qy/a3CFwygqvy7dmACRgrjk1pWFkNPtEgErzbSTvc
+KCcnPRQAPwAoEZU3iyzg0y2vzbzmO4jmkVQBuAjBJzz1OOKkh8RNIl15mnTQTwRLOIpZYxvjYkA7
+s7V6HgkVA/gyykURPfXjQIkyRQ7lCxLICGx8uT14yTVrUPDlpfvJI800btFFHldpwI2LKcEEHknI
+IIPpR0GZS+LZ72+sv7OspbhXFwk9skkZO9NmDvztIw3Y85pV8YxJPc3MjFrV47b7LESsZ3uHJBZi
+APu9zjirUfg6K3KyW+qXsE6vI5mjEQLeYFDDGzaB8oxgCpG8I6aUKIZYyBF5Z+VvLMYIBAYEHO45
+znOaAL+j6pBrOnrdQAgbmRlDhtrKcEbgcHnuOKx9M8VXc+nQTXGkS/armZ4reKKRP320tkjLfKAF
+5z+Fbun2I0+1W3EzzEMSXcKCSTnooAH4Cs4eF4Y0VIb+7h8mZprYoUzbls7guVOQdx+9mjqBoadf
+xalYx3cQZFfIZHGGRlJDKfcEEfhWDqHie6bS1vbGwuUga4iWGY7D56mQKQFzkZB4zj1rfsLGHTbF
+LWHcyLklnOWdiclj7kkn8azk8MQLCtv9uu2tI5Ekhtyy7YtrhwAduSMjHJPFHUEIfEhFjcTvp7xz
+Wswhnt5biJNhIDA7y20ggjvVU+NbeSAXFrp91cRJai6mdWQCJMsD1PJBQ8DOe1Xbzwza3c8s4uZo
+pZLjz9yhGAbYExtZSCMDuDg9MVHZ+ErGzsZ7RJp2We1Nq7MVzsy5yMDAOXPt0oAJPFEaXaxxWNxN
+bG5S2e6DKEWRscYJ3HGRnApuk+LLHV9R+yQrjzEZ4XEqN5iqcE7VJZeoPzYzVK58P3TazBFaLcxW
+K3UVzKzTRmJ2QDkLjfuOAOuO9aum+HrfSroSW9xL5KqVjgKptQE56hQx9txOKAKniPX5tInSO1he
+5uDGjCIlQhUyqhOTg7vm45xWu96ttpr3t5G1ssURklRmDFABk9OD+FVtT0C01WZpppJkkMPlBo2A
+24cOGHHUMo9qtNZRzac1jdyNdJLGY5WkwDICMHO0AfligDIfxasUW2bSruO5ZohFbFkLyLIdqsDn
+A54OTxT08TeYBDFply9/5zxGzDoCpUAsS2duMMvfvT4/C9uGR7i9u7mWOSJkllZdwWM5VeAOMk57
+nPWnTeG4GnkuoLu5trl52n8+LbuXcoVlwwIwQo6jtQBXl8YWUGppYyxMrb445S0qAxO+Nq7N25uo
+yQCOa1dQv49OWGSVHKSzLCWXGELHAJ9s4H41S/4RuD7et5Hdzo7MjTDbG3nMoABJKkjIAztIzU/i
+Cyk1HQb2zhjEkk8RRAW24J6Nn26/hR0Aqt4mRtiWen3N3LI8qpGhVdyxnazgkgYzwO5oHiqxeyvL
+yKOaSK1himYgAF1kGQBnv65p7eG4fsljDb3VxaS2UPkpPCV3MpA3A7gQc4BzjOagufB9lLE8MNzd
+2tvJDHDLFCy4kCfdySCc/QjPegC7pertqs1wsVjPHBBK8XnyMuHdWwQBnOPei61ZoNSFjbWE95Kq
+LJN5ZUCJSSATuIz0PA54q1p1hDpsMscTOVkmeZi5z8zHJ/nVe70gXGoi+hvbm0lKqkogK4mUHIDb
+gcYyeRg80mBj6R4qk+yRtqtvKiSNcBLw7dj+WWJG0HI+VeuOcVLa+NbG6imYQv5iLG0cSSxyNL5j
+bUA2sQCTxg4xVweGtPNtbWzmV4rZ5WCs33/MDBgTjp856VFD4Vto7WS3N5cOrBPKYLGhhKHKspVR
+kg45bPSn1Aqz+JprPWUhvLaW3820LRWOUaWWXfgBSDzx74HU9KvX+vWdrbXSSSSRXUNs0zxIuXQB
+c8EjaT+OKZN4UtLyQT3t1c3VwITEtw5VXT5twZSoG1gQOlaVzp4vdJl064mkdJYTE8vAdsjBPAxn
+8KAMqLxQkt2IjYXSW/2oWn2pim3zccfLnODnGcYq7q2pR6bLaGVplWWRwREobIVGY5zz0XtznFNT
+w5aJGIxJLgXoveSOXHbp04qxf6XHqElu7ySRtbOXQxkDkqV/kxP1oYIraLrP9twPPHbGFARtYyxy
+b8j1QnBHcHBqqnimM3Lq9hcJbrcPbC4Zl2tKueMZzg4OD0q5pGgw6TLcTLPJPNclfMkkVFJCjA4R
+QO55xms3T/C8pmuZdQuZjGbyaeC2Vk8tdxO1/u5JwTwSRz0oAmh8UNPZWtxHpN3vviPskDMgaUbd
+xbrhQB60+PxMt15KWOn3N1LJGZJYlKqYAGKncSQCdwIwM5wanfw9A1hY2sNxPbvp4At7iMrvTC7T
+1BByOuRUaeGIYPINne3VpJFGY3ljZS0yltx3blPO4k5GDyaAK6eMtPfVWsgrFQ8kayiRCWdASy7A
+d/8AC3JHUe4pkfjK3bTDfmzdUaRI4v8ASIiHLAkZYNhMAc7sdvWrkXhm3t797mC5niV3dzEoTAZg
+ckNt39STjdjPaoovCccMc+zUboT3BTzJtkOWC5wCuzYep5K596AIL3xpaackJuLdkdoPtEsZniBi
+jyRnJbD9CQFznFJqfiO4+1QQ6dbSGBb+G3nvCU2AsRuUKTk8EDIHepv+EMso4oEtp5rdoYvJLqsb
+F1yW53KQDknlcYzU03he3lvRP9ruUi+0pdG2Ur5bSrjDHK7ucDIzigDaJ6iuBHi/VJdMedbqxlkl
+tJ5tttGd9oyfd35ZgQenOOa7e0tWtITH58s+XZ98zbm5JOM+gzgewqhH4bsYdCl0iMMkUsZjeRQB
+IwOeSccnmgZTj8XWT6ummsmWMotzJ5qf63GduzO7HbOMUknjG1tri8t7m2eN7WJ5cJNHIXCsFOQr
+HbyR97HX2NWovDNtBqRvIbiaNWk814QqbWYjBO4ruGeuAQPaq0Hg23tpDJFf3SsIWhiIWIGNWIJ5
+CfMflH3s989aBCTeL4IbGCaS02zXLusURuocMFAJYSbtmOQOuc1s6ZfwapYW99bEmGeMOhPoayl8
+HWaQKqTyrOsrS/aNkZJLABvkKbMYA/h7Z61s2dqLO1itw7OI127nxlvc4oA4bwl/yVnxh/uwfyr0
+GvPvCX/JWfGH+7B/KvQaACiiigAooooAK4D4hf8AI2eDP+wgf5Cu/rgfiF/yNngz/sIn+QoA7ubc
+IZNjbW2nBIzg4rgNMv8AUNL0HSI7ZUku9VV7iSeGzLnhQTld43MSeuex4r0EjIIPIqnPo+nXNkll
+PY28ltHjZC0YKrj0HagDlZvFWttJGsGnOssVrFPPCIPM3licru3gIBtPPPX2ra8MktBqPzE41K4A
+yc4+ars2g6TcLAk2nW0i2wCwholPlgdh6VajtooQ4ijSMO5dtq4yx6k+9HQDiNFm1OC2svInsjda
+vezrLO9sdwVN+M/N8x+X2wOK0B4h1Z/ED2sNq0ltb3SW0uLfg5AJfzN3H3uFwfrXSJp9pGIgltEv
+ksWjwgGwnOSPTOT+dRy6Rp018l/LYwPdR42TNGC6/jQBz/h3xFqerX0bTWrLZ3KSMpMGwRFTgAPu
+O/POeBgii/1DUtP1/WLpLkSWdlp8c/2Qxk7jiTo2fl6DJwa34dI062vZL6CygiupM75kjAZs9cmn
+y6bZXF3HdzWsT3EQKxysgLKD1ANAdzN0e+vpb+eyvpre5dII7hZrZCi4fI2kEnn5c57gjimw6le3
+Go3kv2m1trGxnMMkckZLthQS+7PHXgY5ArUstLsdNjaOwtYbVHO5liQKCfU019J0+W/W/ks4Gu1G
+0TFAXA6Yz+NAHF3Gv317ILG4LtGZLW4gmNqbcspnVcAFm3AjBzx9K6XweS3hizJYsdrck5/jarVv
+4f0e1Zmt9MtImcgsUhAzg5H5Hmrtvbw2sKwwRrFGv3UQYA/CmtgZz/jfVtU0fQLm5022ZnSPP2gS
+IBEdwH3W69apeIrrXpLXTJFsbu2szck6kltOpmWILkEMpGAT1wc12DorjDAEehGRVS+0jTtT8v7f
+ZQXQiJKCVA23PXGaQHnUus6wPhJNqJ1K8iuJblo7GXIEskbybY9xIJ6HOQc8da7XWU1i28IXEeks
+ZtVitQsTMQSzgDJ54J6nnvVy/wBB0nVPL/tDTbW68oYj86INtHtnpU8un2txZ/Y5oI3tioUxMuVI
+HQY/Ch7B1PM4L7xRMNbttBfU5Tb21uki3bbpY5yf3uwsSM7ecZwCe3Famg6pdtB4pnS81CPTbID7
+NJdNvmjkVMyKC+7IyB1z1rszoelnTxp32C2FoDu8gRDZnrnFJNoWk3FjHYTadbSWsX3IGiBRfoOl
+AHI2V9qNj8Hf7VvNTuje/YmuvtBYFyWyyjLA+oFdN4YjuofDOmx308lxc/ZkMssjbmZiMnJ/GpJP
+DeiS2cdlJpVo9rCSY4GhUohPXC9KuQWVvbWq2sMKR26rtWJVwoHpigR5/cXct3r2p6rpd5ff2ToU
+Ukk5F7I0d5cAbvLAJxsXvjrnFR+G7vVH8R+HY21S7umvdLkvNRDzFky/3CF+6uCcDAFeg22mWNlZ
+CytbSGG1wR5MaBUwevA4qvb+HdFtIJoLbS7SGK4ULKkcKgOB0B9RSGYPgS5vb6XXbu51C4vIP7Re
+C285gdqxjBwAABk+go8d3jLFa6dp8lydZvmMVnHBdPEFz96VwpGVUc810en6Npuko6adY29mshy4
+gjCBj6nFSf2dZjUP7Q+yxfbNnl+fsG/b/dz1xTDY8x1i51Cwi1+zfW9QI0DTYlikFyyvNcS872IO
+W5wADwK27+51Z9d8G2H9o3MctzH599CrBVYRxgtnjPJPQnHHSusuNC0i7vVvbjTbWa5XGJniBfjp
+z7VHP4d0qa7e/XT7VdQ6pdtArOrY4bPtQBdhube43iCeOUxsVfY4baw6g46GuU1Gea08R6zqsnk3
+C6XZRvBE0XzKWD5w2eASOeOn0rodC0S20HSorG3JcrlpJW+9K5OWdvckmrf2SDzZJPKTfKAsjbRl
+wOgPr1NAHLT63rVtcrp3nWM9y89uouVhYRhZQ/G3ceRsyOeQR0roLyZrHSpJ7m6jV44/mm8o7d3T
+O3PrjjP40630bTLSJYrawt4USTzVVIwAH6bvr71algjuIXhmRZI3BVkYZDD0NAdTjLbxJrVzdrpn
+7qG5N4kPnXFoUOxomfPl7zyCv97kelSN4svbS2WS6SCRpPPtoSiFfMukkKqMZOAw5x2wea6O10LS
+rHH2TTraAq+8GOIDDYxn64JFMudEtrmezYKkcVrcm6MSxjDyYOG9iCSfrRoBX8RSXlv4Qv5UmWK7
+js2JkReA23kgZ+tZUV9LoNle2UYtFSw0sXabIvLVnJftuPHyjv1rrJoYriF4Zo1kjkBVkYZDA9iK
+q3mjaZqDRteWFvcNGpVDLGG2g9QPagDlL/VtbvPD+s3cd7BaLayCKPyomL/wHcW3cfeI+lFxd6xp
+ep61eC8tpTaW9vJMGt2Hnfe4Ubvk47812A0+1WGWEW8Qjmz5iBBh8jByO/HFRQ6LpkFs9tFYW6Qy
+KFeNYwAwHQEd+poGc4PE2qy6tOIrRvskVxJbnNv8q7VPzmTdycgfLt6HrW14fnv77R7a91CWBpLm
+NJVWCMqI8qDjknd9eKsvo2myX3257G3a6xjzjGN2MY6/TirMMEVvCsMKLHGgAVVGAoHQAUCOQufE
+mrRRx3sclp9nnluY47YxEuvlI5BLbu5TkY6GpNS8VXdmEEUUcjSWEMwATJV5JAgOM8gZzjv61sXH
+huwm1a31SOGKG4ilaSR0iGZsoVwx/H9Kmg0DSbZJEt9NtYllXbIEiUb19Dx0oW1gMC31rXrm4tLJ
+litppp5Uaa4tSpZFRWDCPfwecYJ96hm8R6jFcyWVjaKJmubnLw2pl3BGUcruHJ3cnP4V1Nro2m2I
+jFpYwQCIlk8uMDaSMEj6gUlxommXcRiubC3mjaQyFXjBBc9W+poAwRr+pnUrD7RGlla3Hkggw+aC
+7jLIZA3yNk4HBzwc81L4s1i40iSGW2hgklFrPIjSqTtK7Bjg9Du5+lbK6JpaXcd2un2wuIlCpL5Q
+3KoGAAe2BU9zYWt5j7TbxTYUqPMQHAOMj8cD8qAMzSL2+fVL3Tr6WGZ7dIpFkhiMYw+7ggk9NvX3
+rmpZNYmGW1KN8eIPKhV4T+7wWxk7uVx0Xj613SWsKTvOsaiVwFaQD5mA6An2yagOj6cbtrz7Db/a
+HYM0vljcSOhz6ijqHQ5c6/qn2p4Vt7W4vrZbmNZAmzzCjR42gnjIbpnkgc1u+HtQm1GylNzL5k8U
+zROPs5gZMAHBUk4PPrVqXR9NmEglsbd/N3eZujB3bsbs/XAz9BUlpp9rYWwtrSCOCEZwkahRz1oA
+5ZfEOsJ4ctNSl8mWbUZliiSC2LeTndkkF/nOF6ZHJqRNc1q6jhtgIbG68qeWSW4gJ3LGwAwm7gnO
+Tk8V0j6ZZSWRsXtYWtSMeSUGzHXpWbqnhi2vNPhsbOKytYIixCvZiULnqVGRtPvzQMxbjxbfRWNl
+exlZcwwPdwx2hZUMhHWTf8vByBg/rVuPWtW/sqa+aS0Hm3htLdBEcRnzigdzu545wMc96118M6N5
+dqkunwTtaxrFFJLGGYKvTmrbadZvaPaNbRNbyZ3xFBtbJycj3PNAjE8NSyQ3WsR315FNOdQ2Bwvl
+hj5SHCqSe3bPrXSCqUGi6ZaxolvYW8SxyeagSIDa+Mbh744zV0DFDAWkpaKAEopaKAEoApaKACii
+igBKWiigAooooAKKKKACiiigDz7wl/yVnxh/uwfyr0GvPvCX/JWfGH+7B/KvQaACiiigAooooAK4
+H4hf8jZ4M/7CJ/kK76vP/iLIkXinwdJI6oi6gSWY4AGB3oA9Aoqn/a+mf9BG0/7/AK/40f2vpn/Q
+RtP+/wCv+NAFyiqf9r6Z/wBBG0/7/r/jR/a+mf8AQRtP+/6/40AW8UYqp/a+mf8AQRtP+/6/40f2
+vpn/AEEbT/v+v+NAFvFFVP7X0z/oI2n/AH/X/Gj+19M/6CNp/wB/1/xoAt0Yqp/a+mf9BG0/7/r/
+AI0f2vpn/QRtP+/6/wCNAFulqn/a+mf9BG0/7/r/AI0f2vpn/QRtP+/6/wCNAFykqp/a+mf9BG0/
+7/r/AI0f2vpn/QRtP+/6/wCNAFuiqn9r6Z/0EbT/AL/r/jR/a+mf9BG0/wC/6/40AXKSqn9r6Z/0
+EbT/AL/r/jR/a+mf9BG0/wC/6/40AW6Kqf2vpn/QRtP+/wCv+NH9r6Z/0EbT/v8Ar/jQBbxRiqn9
+r6Z/0EbT/v8Ar/jR/a+mf9BG0/7/AK/40AW6Kqf2vpn/AEEbT/v+v+NH9r6Z/wBBG0/7/r/jQBbx
+QBiqn9r6Z/0EbT/v+v8AjR/a+mf9BG0/7/r/AI0AXKSqn9r6Z/0EbT/v+v8AjR/a+mf9BG0/7/r/
+AI0AW6Wqf9r6Z/0EbT/v+v8AjR/a+mf9BG0/7/r/AI0AW6Kqf2vpn/QRtP8Av+v+NH9r6Z/0EbT/
+AL/r/jQBbxRVT+19M/6CNp/3/X/Gj+19M/6CNp/3/X/GgC3RVT+19M/6CNp/3/X/ABo/tfTP+gja
+f9/1/wAaALlJVT+19M/6CNp/3/X/ABo/tfTP+gjaf9/1/wAaALdFVP7X0z/oI2n/AH/X/Gj+19M/
+6CNp/wB/1/xoAt0VU/tfTP8AoI2n/f8AX/Gj+19M/wCgjaf9/wBf8aALdFVP7X0z/oI2n/f9f8aP
+7X0z/oI2n/f9f8aALdLVP+19M/6CNp/3/X/Gj+19M/6CNp/3/X/GgC3RVT+19M/6CNp/3/X/ABo/
+tfTP+gjaf9/1/wAaALlFU/7X0z/oI2n/AH/X/Gj+19M/6CNp/wB/1/xoAt0VU/tfTP8AoI2n/f8A
+X/Gj+19M/wCgjaf9/wBf8aALlFU/7X0z/oI2n/f9f8aP7X0z/oI2n/f9f8aALlFU/wC19M/6CNp/
+3/X/ABo/tfTP+gjaf9/1/wAaALlFU/7X0z/oI2n/AH/X/Gj+19M/6CNp/wB/1/xoAuUVT/tfTP8A
+oI2n/f8AX/Gj+19M/wCgjaf9/wBf8aALlFU/7X0z/oI2n/f9f8aP7X0z/oI2n/f9f8aALlFU/wC1
+9M/6CNp/3/X/ABo/tfTP+gjaf9/1/wAaALlFU/7X0z/oI2n/AH/X/Gj+19M/6CNp/wB/1/xoAuUV
+T/tfTP8AoI2n/f8AX/Gj+19M/wCgjaf9/wBf8aALlFU/7X0z/oI2n/f9f8aT+19N/wCgjaf9/wBf
+8aAOL8Jf8lZ8Yf7sH8q9BrzzwdLHN8VPF0kUiyIywYZCCDx616HQAUUUUAFFFFABWH4k8JaP4rSC
+PV7dpltyTHtcrjPXpW5RQBwv/CnPBf8A0D5f/Ahv8aP+FOeC/wDoHy/+BDf413VFAHC/8Kc8F/8A
+QPl/8CG/xo/4U54L/wCgfL/4EN/jXdUUAcL/AMKc8F/9A+X/AMCG/wAaP+FOeC/+gfL/AOBDf413
+VFAHC/8ACnPBf/QPl/8AAhv8aP8AhTngv/oHy/8AgQ3+Nd1RQBwv/CnPBf8A0D5f/Ahv8aP+FOeC
+/wDoHy/+BDf413VFAHC/8Kc8F/8AQPl/8CG/xo/4U54L/wCgfL/4EN/jXdUUAcL/AMKc8F/9A+X/
+AMCG/wAaP+FOeC/+gfL/AOBDf413VFAHC/8ACnPBf/QPl/8AAhv8aP8AhTngv/oHy/8AgQ3+Nd1R
+QBwv/CnPBf8A0D5f/Ahv8aP+FOeC/wDoHy/+BDf413VFAHC/8Kc8F/8AQPl/8CG/xo/4U54L/wCg
+fL/4EN/jXdUUAcL/AMKc8F/9A+X/AMCG/wAaP+FOeC/+gfL/AOBDf413VFAHC/8ACnPBf/QPl/8A
+Ahv8aP8AhTngv/oHy/8AgQ3+Nd1RQBwv/CnPBf8A0D5f/Ahv8aP+FOeC/wDoHy/+BDf413VFAHC/
+8Kc8F/8AQPl/8CG/xo/4U54L/wCgfL/4EN/jXdUUAcL/AMKc8F/9A+X/AMCG/wAaP+FOeC/+gfL/
+AOBDf413VFAHC/8ACnPBf/QPl/8AAhv8aP8AhTngv/oHy/8AgQ3+Nd1RQBwv/CnPBf8A0D5f/Ahv
+8aP+FOeC/wDoHy/+BDf413VFAHC/8Kc8F/8AQPl/8CG/xo/4U54L/wCgfL/4EN/jXdUUAcL/AMKc
+8F/9A+X/AMCG/wAaP+FOeC/+gfL/AOBDf413VFAHC/8ACnPBf/QPl/8AAhv8aP8AhTngv/oHy/8A
+gQ3+Nd1RQBwv/CnPBf8A0D5f/Ahv8aP+FOeC/wDoHy/+BDf413VFAHC/8Kc8F/8AQPl/8CG/xo/4
+U54L/wCgfL/4EN/jXdUUAcL/AMKc8F/9A+X/AMCG/wAaP+FOeC/+gfL/AOBDf413VFAHC/8ACnPB
+f/QPl/8AAhv8aP8AhTngv/oHy/8AgQ3+Nd1RQBwv/CnPBf8A0D5f/Ahv8aP+FOeC/wDoHy/+BDf4
+13VFAHC/8Kc8F/8AQPl/8CG/xo/4U54L/wCgfL/4EN/jXdUUAcL/AMKc8F/9A+X/AMCG/wAaP+FO
+eC/+gfL/AOBDf413VFAHC/8ACnPBf/QPl/8AAhv8aP8AhTngv/oHy/8AgQ3+Nd1RQBwv/CnPBf8A
+0D5f/Ahv8aP+FOeC/wDoHy/+BDf413VFAHC/8Kc8F/8AQPl/8CG/xo/4U54L/wCgfL/4EN/jXdUU
+AcL/AMKc8F/9A+X/AMCG/wAaP+FOeC/+gfL/AOBDf413VFAHC/8ACnPBf/QPl/8AAhv8aP8AhTng
+v/oHy/8AgQ3+Nd1RQBwv/CnPBf8A0D5f/Ahv8aP+FOeC/wDoHy/+BDf413VFAHC/8Kc8F/8AQPl/
+8CG/xo/4U54L/wCgfL/4EN/jXdUUAcL/AMKc8F/9A+X/AMCG/wAaP+FO+C/+gfL/AOBDf413VFAG
+B4b8FaH4Ulnk0i2eJp1CyFpC2QOnWt+iigAooooA/9k=
+
+--_006_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_
+Content-Type: image/jpeg; name="image003.jpg"
+Content-Description: image003.jpg
+Content-Disposition: inline; filename="image003.jpg"; size=17950;
+	creation-date="Sun, 17 May 2026 11:35:48 GMT";
+	modification-date="Sun, 17 May 2026 12:42:26 GMT"
+Content-ID: <image003.jpg@01DCE61D.97A252F0>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAE1AlYDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDs8UlO
+p8MRmfaCAfeuA9Eioq3/AGfJ/wA9FpP7Pk/vrQLmRVpatfYH/wCei0f2fJ/z0WgXMirRVr7A/wDz
+0Wl+wOP41oDmRVxTgKsfYX/vqKX7C/8Az0WmHMitjNOAqf7E399acLNv7y0CuiAU7FTfZG/vCl+z
+N6iiwcyIgKcBUv2dvUUvkkfxCmJtDAKdT/KPrSiMjvQTcaBTh1pQlLtxTAUClpKUUCYuKKM+1Gfa
+mAUUbvajd7UgCijd7UbvagAoo3e1G72oAcBRSbh6Ubh6UxCinio9w9KXzB6UASUCmeaPQ0vmj0NF
+xD6Wo/NHoaUSgdjTuIfRTfOH900hlHoaLgPpDTPNHvR5o9KLgPpKZ5o9KXzR6UXGOJptNLg9qN4p
+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
+UAKKUUUUIYopcUUUxMUUooooEOFFFFAH/9k=
+
+--_006_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_
+Content-Type: image/png; name="image004.png"
+Content-Description: image004.png
+Content-Disposition: inline; filename="image004.png"; size=4014;
+	creation-date="Sun, 17 May 2026 11:35:48 GMT";
+	modification-date="Sun, 17 May 2026 12:42:26 GMT"
+Content-ID: <image004.png@01DCE61D.97A252F0>
+Content-Transfer-Encoding: base64
+
+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
+
+--_006_007501dce5f14b5b35a0e211a0e0lemontreehotelscom_--
